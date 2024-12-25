@@ -3,16 +3,34 @@
     {
       "type": "irregular",
       "verb": "tener",
-      "definition": "To have",
+      "definition": "to have",
       "hint": "Relations to '-tain' words such as contain",
+      "examples": [
+        {
+          "english": "To have to",
+          "spanish": "Tener qué"
+        },
+        {
+          "english": "To be correct",
+          "spanish": "Tener razón"
+        }
+      ],
       "subjects": [
         {
           "verb": "tengo",
           "subject": "first person singular",
           "examples": [
             {
-              "english": "I have it",
-              "spanish": "Lo tengo"
+              "english": "I have them",
+              "spanish": "Los tengo"
+            },
+            {
+              "english": "I have to eat",
+              "spanish": "Tengo qué comer"
+            },
+            {
+              "english": "I have a dog",
+              "spanish": "Tengo un perro"
             }
           ]
         },
@@ -21,8 +39,8 @@
           "subject": "second person singular, third person singular",
           "examples": [
             {
-              "english": "You have it",
-              "spanish": "Lo tiene"
+              "english": "You have to see her",
+              "spanish": "Tengo qué ver lo"
             }
           ]
         },
@@ -31,8 +49,8 @@
           "subject": "second person plural, third person plural",
           "examples": [
             {
-              "english": "They have it",
-              "spanish": "Lo tienen"
+              "english": "They have to do it",
+              "spanish": "Lo tienen qué hacer"
             }
           ]
         },
@@ -43,6 +61,238 @@
             {
               "english": "You have it",
               "spanish": "Lo tienes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "pensar",
+      "definition": "To think / To plan / To imagine",
+      "hint": "Similar to ponder",
+      "examples": [
+        {
+          "english": "I try to think ahead",
+          "spanish": "Intento pensar adelante"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "pienso",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I plan to eat",
+              "spanish": "Pienso comer"
+            }
+          ]
+        },
+        {
+          "verb": "piensa",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "He plans to eat later",
+              "spanish": "Piensa comer mas tarde"
+            }
+          ]
+        },
+        {
+          "verb": "piensan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They plan to go tomorrow",
+              "spanish": "Piensan ir mañana"
+            }
+          ]
+        },
+        {
+          "verb": "tienes",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "What do you think?",
+              "spanish": "Qué piensas?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "intentar",
+      "definition": "To try",
+      "hint": "Intention",
+      "examples": [
+        {
+          "english": "Are you going to try it?",
+          "spanish": "Vas a intentar lo?"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "intento",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I try to read it",
+              "spanish": "Intento leer lo"
+            }
+          ]
+        },
+        {
+          "verb": "intenta",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "He is trying to sleep",
+              "spanish": "Intenta dormir"
+            }
+          ]
+        },
+        {
+          "verb": "intentan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "Why don't they try?",
+              "spanish": "Por qué no intentan?"
+            }
+          ]
+        },
+        {
+          "verb": "intentas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You try it",
+              "spanish": "Lo intentas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "pasar",
+      "definition": "To pass by / To occur / To happen",
+      "hint": "Pass",
+      "examples": [
+        {
+          "english": "I am going to pass by to visit you",
+          "spanish": "Voy a pasar a visitar me"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "paso",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I pass (I decline)",
+              "spanish": "Paso"
+            }
+          ]
+        },
+        {
+          "verb": "pasa",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "What is happening?",
+              "spanish": "Qué pasa?"
+            },
+            {
+              "english": "I want to know what is going on?",
+              "spanish": "Quiero saber qué pasa?"
+            }
+          ]
+        },
+        {
+          "verb": "pasan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They pass the test",
+              "spanish": "Pasan la prueba"
+            }
+          ]
+        },
+        {
+          "verb": "pasas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You pass to the right",
+              "spanish": "Pasas a la derecha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "venir",
+      "definition": "To come",
+      "hint": "Derives from convienient",
+      "examples": [
+        {
+          "english": "Do you want to come?",
+          "spanish": "Quiere venir te?"
+        },
+        {
+          "english": "Do you want to come to visit me?",
+          "spanish": "Quiere venir a visitar me?"
+        },
+        {
+          "english": "Welcome",
+          "spanish": "Bien venidos"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "vengo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I will come tomorrow",
+              "spanish": "Vengo mañana"
+            }
+          ]
+        },
+        {
+          "verb": "viene",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "He will come soon",
+              "spanish": "Viene pronto"
+            }
+          ]
+        },
+        {
+          "verb": "vienen",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They come to see you",
+              "spanish": "Vienen ver te"
+            }
+          ]
+        },
+        {
+          "verb": "vienes",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You come with me",
+              "spanish": "Me con vienes"
+            },
+            {
+              "english": "When are you coming?",
+              "spanish": "Cuando vienes?"
             }
           ]
         }
