@@ -1,14 +1,14 @@
 {
   "verbs": [
     {
-      "historic": true,
       "type": "irregular",
       "verb": "tener",
       "definition": "To have",
-      "hint": null,
-      "forms": {
-        "1st": {
+      "hint": "Relations to '-tain' words such as contain",
+      "subjects": [
+        {
           "verb": "tengo",
+          "subject": "first person singular",
           "examples": [
             {
               "english": "I have it",
@@ -16,8 +16,9 @@
             }
           ]
         },
-        "2nd-formal_3rd": {
+        {
           "verb": "tiene",
+          "subject": "second person singular, third person singular",
           "examples": [
             {
               "english": "You have it",
@@ -25,8 +26,9 @@
             }
           ]
         },
-        "2nd-plural_3rd-plural": {
+        {
           "verb": "tienen",
+          "subject": "second person plural, third person plural",
           "examples": [
             {
               "english": "They have it",
@@ -34,8 +36,9 @@
             }
           ]
         },
-        "2nd-informal": {
+        {
           "verb": "tienes",
+          "subject": "second person singular informal",
           "examples": [
             {
               "english": "You have it",
@@ -43,7 +46,7 @@
             }
           ]
         }
-      }
+      ]
     }
   ]
 }
