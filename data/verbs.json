@@ -1,0 +1,49 @@
+{
+  "verbs": [
+    {
+      "historic": true,
+      "type": "irregular",
+      "verb": "tener",
+      "definition": "To have",
+      "hint": null,
+      "forms": {
+        "1st": {
+          "verb": "tengo",
+          "examples": [
+            {
+              "english": "I have it",
+              "spanish": "Lo tengo"
+            }
+          ]
+        },
+        "2nd-formal_3rd": {
+          "verb": "tiene",
+          "examples": [
+            {
+              "english": "You have it",
+              "spanish": "Lo tiene"
+            }
+          ]
+        },
+        "2nd-plural_3rd-plural": {
+          "verb": "tienen",
+          "examples": [
+            {
+              "english": "They have it",
+              "spanish": "Lo tienen"
+            }
+          ]
+        },
+        "2nd-informal": {
+          "verb": "tienes",
+          "examples": [
+            {
+              "english": "You have it",
+              "spanish": "Lo tienes"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
