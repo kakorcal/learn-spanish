@@ -521,6 +521,226 @@
           ]
         }
       ]
+    },
+    {
+      "type": "regular",
+      "verb": "respirar",
+      "definition": "To breath / to speak",
+      "hint": "Respiration",
+      "examples": [
+        {
+          "english": "I have to take a deep breath",
+          "spanish": "Necesito respirar hondo"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "respiro",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I breath rapidly",
+              "spanish": "Respiro rápidamente"
+            }
+          ]
+        },
+        {
+          "verb": "respira",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "Take a deep breath",
+              "spanish": "Respira hondo"
+            }
+          ]
+        },
+        {
+          "verb": "respiran",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They did not speak during the whole meeting",
+              "spanish": "No respiran en toda la reunión"
+            }
+          ]
+        },
+        {
+          "verb": "respiras",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "Breathe slowly",
+              "spanish": "Respiras lentamente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "mostrar",
+      "definition": "To show",
+      "hint": "To demonstrate",
+      "examples": [
+        {
+          "english": "I want to show you something",
+          "spanish": "Quiero mostrar te algo"
+        },
+        {
+          "english": "Can you show me?",
+          "spanish": "Puedes mostrar me?"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "mostro",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I show my location",
+              "spanish": "Mostro mi lugar"
+            }
+          ]
+        },
+        {
+          "verb": "mostra",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "She shows me the book",
+              "spanish": "Ella me mostra el libro"
+            }
+          ]
+        },
+        {
+          "verb": "mostran",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They show us the neighborhood",
+              "spanish": "Nos mostran le vecindario"
+            }
+          ]
+        },
+        {
+          "verb": "mostras",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You show your photo",
+              "spanish": "Mostras tu foto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "vender",
+      "definition": "To sell",
+      "hint": "Street vender / Vending machine",
+      "examples": [
+        {
+          "english": "I am going to sell it",
+          "spanish": "Voy a vender lo"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "vendo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I'm selling the house",
+              "spanish": "Vendo las casa"
+            }
+          ]
+        },
+        {
+          "verb": "vende",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "She is selling us something",
+              "spanish": "Nos vende algo"
+            }
+          ]
+        },
+        {
+          "verb": "venden",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They are selling me it",
+              "spanish": "Me lo venden"
+            }
+          ]
+        },
+        {
+          "verb": "vendes",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "What do you sell at the market?",
+              "spanish": "Qué vendes en el mercado?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "hacer",
+      "definition": "To do / To make",
+      "hint": "Close to the word 'act'",
+      "examples": [
+        {
+          "english": "I am going to sell it",
+          "spanish": "Voy a vender lo"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "hago",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I am making the bed",
+              "spanish": "Hago la cama"
+            }
+          ]
+        },
+        {
+          "verb": "hace",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "She does homework",
+              "spanish": "Ella hace la tarea"
+            }
+          ]
+        },
+        {
+          "verb": "hacen",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They are doing their work",
+              "spanish": "Hacen su trabajo"
+            }
+          ]
+        },
+        {
+          "verb": "haces",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "What are you doing?",
+              "spanish": "Qué haces?"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
