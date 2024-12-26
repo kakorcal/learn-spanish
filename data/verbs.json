@@ -109,7 +109,7 @@
           ]
         },
         {
-          "verb": "tienes",
+          "verb": "piensas",
           "subject": "second person singular informal",
           "examples": [
             {
@@ -293,6 +293,230 @@
             {
               "english": "When are you coming?",
               "spanish": "Cuando vienes?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "deber",
+      "definition": "To owe / duty",
+      "hint": "To be in debt",
+      "examples": [
+        {
+          "english": "Obligation to work",
+          "spanish": "Deber al trabajo"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "debo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I must continue",
+              "spanish": "Debo continuar"
+            }
+          ]
+        },
+        {
+          "verb": "debe",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "You owe alot of money",
+              "spanish": "Debe mucho dinero"
+            }
+          ]
+        },
+        {
+          "verb": "deben",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They owe an explanation",
+              "spanish": "Deben una explicacíon"
+            }
+          ]
+        },
+        {
+          "verb": "debes",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You must be tired",
+              "spanish": "Debes cansado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "saber",
+      "definition": "To know",
+      "hint": "To be savvy",
+      "examples": [
+        {
+          "english": "I want to know if she wants to come to the house to visit me",
+          "spanish": "Quiero saber si quiere venir a la casa a visitar me"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "sé",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I know it",
+              "spanish": "Lo sé"
+            },
+            {
+              "english": "I don't know what he wants",
+              "spanish": "No sé qué el quiere"
+            }
+          ]
+        },
+        {
+          "verb": "sabe",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "Do you know when it starts?",
+              "spanish": "Sabe cuándo empieza?"
+            }
+          ]
+        },
+        {
+          "verb": "saben",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They know where to go",
+              "spanish": "Saben dónde ir"
+            }
+          ]
+        },
+        {
+          "verb": "sabes",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You know alot",
+              "spanish": "Sabes mucho"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "explicar",
+      "definition": "To explain",
+      "hint": "Being explicit",
+      "examples": [
+        {
+          "english": "I want to explain something to you",
+          "spanish": "Quiero explicar te algo"
+        },
+        {
+          "english": "Can you explain?",
+          "spanish": "Puede explicar?"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "explico",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I explain how to learn",
+              "spanish": "explico cómo aprender"
+            }
+          ]
+        },
+        {
+          "verb": "explica",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "He explains very well",
+              "spanish": "Explica muy bien"
+            }
+          ]
+        },
+        {
+          "verb": "explican",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They explain to her",
+              "spanish": "Explican a ella"
+            }
+          ]
+        },
+        {
+          "verb": "explicas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "Can you explain it to me?",
+              "spanish": "Me lo explicas?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "comer",
+      "definition": "To eat",
+      "hint": "To consume",
+      "examples": [
+        {
+          "english": "I want to eat now",
+          "spanish": "Quiero comer ahora"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "como",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I eat later",
+              "spanish": "como mas tarde"
+            }
+          ]
+        },
+        {
+          "verb": "come",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "When do you eat?",
+              "spanish": "Cuando come?"
+            }
+          ]
+        },
+        {
+          "verb": "comen",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They eat in the restaurant",
+              "spanish": "Comen en la restaurante"
+            }
+          ]
+        },
+        {
+          "verb": "comes",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "Where do you eat usually?",
+              "spanish": "Dónde comes generalmente?"
             }
           ]
         }
