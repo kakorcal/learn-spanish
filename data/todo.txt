@@ -1,8 +1,3 @@
-pueder
-llegar
-esperar
-salir
-poner
 entender
 perder
 empezar

@@ -741,6 +741,284 @@
           ]
         }
       ]
+    },
+    {
+      "type": "regular",
+      "verb": "pueder",
+      "definition": "Can",
+      "hint": "To have power to do something",
+      "examples": [
+        {
+          "english": "Can you recommend a good play?",
+          "spanish": "Puedes recomendar un buen juego?"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "puedo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I can eat chicken everyday",
+              "spanish": "Puedo comer pollo todos las dias"
+            }
+          ]
+        },
+        {
+          "verb": "puede",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "Are you able to come?",
+              "spanish": "Puede venir?"
+            },
+            {
+              "english": "Can you give me a discount?",
+              "spanish": "Me puede hacer un descuento?"
+            }
+          ]
+        },
+        {
+          "verb": "pueden",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They can walk to the house",
+              "spanish": "Pueden caminar a la casa"
+            }
+          ]
+        },
+        {
+          "verb": "puedes",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "Can't you come?",
+              "spanish": "No puedes venir?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "llegar",
+      "definition": "To arrive / To reach a goal",
+      "hint": "Use your legs to arrive to destination",
+      "examples": [
+        {
+          "english": "I've just arrived at the airport",
+          "spanish": "Acabo de llegar al aeropuerto"
+        },
+        {
+          "english": "How do I get to the train station",
+          "spanish": "Cómo puedo llegar a la estación de tren?"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "llego",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "When I arrive to the house I will sleep",
+              "spanish": "Cuando llego a casa hago dormir"
+            }
+          ]
+        },
+        {
+          "verb": "llega",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "Will you arrive early?",
+              "spanish": "Llega temprano?"
+            }
+          ]
+        },
+        {
+          "verb": "llegan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "When will they arrive?",
+              "spanish": "Cuando llegan?"
+            }
+          ]
+        },
+        {
+          "verb": "llegas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "How do you get there?",
+              "spanish": "Cómo llegas?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "esperar",
+      "definition": "To wait / To hope / To expect",
+      "hint": "Desparate",
+      "examples": [
+        {
+          "english": "I have to wait outside",
+          "spanish": "Tengo esperar afuera"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "espero",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "Hope you enjoy it",
+              "spanish": "Lo espero disfruta"
+            }
+          ]
+        },
+        {
+          "verb": "espera",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "Please wait a little",
+              "spanish": "Por favor, espera un poquito"
+            }
+          ]
+        },
+        {
+          "verb": "esperan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They await me",
+              "spanish": "Me esperan"
+            }
+          ]
+        },
+        {
+          "verb": "esperas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "Don't wait",
+              "spanish": "No esperas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "salir",
+      "definition": "To go out / To get out / To leave",
+      "hint": "Sail away",
+      "examples": [
+        {
+          "english": "I plan to go out tomorrow",
+          "spanish": "Pienso salir a manána"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "salgo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I am going out to eat",
+              "spanish": "Salgo a comer"
+            }
+          ]
+        },
+        {
+          "verb": "sale",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "What time do you leave the office?",
+              "spanish": "Qué hora sale de la oficina?"
+            }
+          ]
+        },
+        {
+          "verb": "salen",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They leave soon",
+              "spanish": "Salen a pronto"
+            }
+          ]
+        },
+        {
+          "verb": "sales",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "Are you going out tonight?",
+              "spanish": "Sales esta noche"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "poner",
+      "definition": "To put / To set",
+      "hint": "Compose / suppose / impose",
+      "examples": [
+        {
+          "english": "I am going to set a table",
+          "spanish": "Voy a poner la mesa"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "pongo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I put it away",
+              "spanish": "Lo pongo lejos"
+            }
+          ]
+        },
+        {
+          "verb": "pone",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "What time does the sun set?",
+              "spanish": "A qué hora se pone el sol?"
+            }
+          ]
+        },
+        {
+          "verb": "ponen",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They put up an ad to sell it",
+              "spanish": "Lo ponen un anuncio vender"
+            }
+          ]
+        },
+        {
+          "verb": "pones",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You turn me on",
+              "spanish": "Me pones mucho"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
