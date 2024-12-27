@@ -589,46 +589,50 @@
         {
           "english": "Can you show me?",
           "spanish": "Puedes mostrar me?"
+        },
+        {
+          "english": "A sample",
+          "spanish": "Una muestra"
         }
       ],
       "subjects": [
         {
-          "verb": "mostro",
+          "verb": "muestro",
           "subject": "first person singular",
           "examples": [
             {
               "english": "I show my location",
-              "spanish": "Mostro mi lugar"
+              "spanish": "Muestro mi lugar"
             }
           ]
         },
         {
-          "verb": "mostra",
+          "verb": "muestra",
           "subject": "second person singular, third person singular",
           "examples": [
             {
               "english": "She shows me the book",
-              "spanish": "Ella me mostra el libro"
+              "spanish": "Ella me muestra el libro"
             }
           ]
         },
         {
-          "verb": "mostran",
+          "verb": "muestran",
           "subject": "second person plural, third person plural",
           "examples": [
             {
               "english": "They show us the neighborhood",
-              "spanish": "Nos mostran le vecindario"
+              "spanish": "Nos muestran le vecindario"
             }
           ]
         },
         {
-          "verb": "mostras",
+          "verb": "muestras",
           "subject": "second person singular informal",
           "examples": [
             {
               "english": "You show your photo",
-              "spanish": "Mostras tu foto"
+              "spanish": "Muestras tu foto"
             }
           ]
         }
@@ -744,13 +748,13 @@
     },
     {
       "type": "regular",
-      "verb": "pueder",
-      "definition": "Can",
+      "verb": "poder",
+      "definition": "To be able / can",
       "hint": "To have power to do something",
       "examples": [
         {
-          "english": "Can you recommend a good play?",
-          "spanish": "Puedes recomendar un buen juego?"
+          "english": "He won't be able to come",
+          "spanish": "No va a poder venir"
         }
       ],
       "subjects": [
@@ -1015,6 +1019,334 @@
             {
               "english": "You turn me on",
               "spanish": "Me pones mucho"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "entender",
+      "definition": "To understand",
+      "hint": "To extend knowledge",
+      "examples": [
+        {
+          "english": "I have to study to understand",
+          "spanish": "Tengo que estudiar a entender"
+        },
+        {
+          "english": "I can't understand what you are saying",
+          "spanish": "No puedo entender qué hablas"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "entiendo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I understand what she said",
+              "spanish": "Entiendo qué hablas"
+            }
+          ]
+        },
+        {
+          "verb": "entienda",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "Do you understand the rules?",
+              "spanish": "Entienda las reglas?"
+            }
+          ]
+        },
+        {
+          "verb": "entiendan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They understand the situation",
+              "spanish": "Entiendan la situación"
+            }
+          ]
+        },
+        {
+          "verb": "entiendas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "She wants to show she understands",
+              "spanish": "Quieras mostras entiendas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "perder",
+      "definition": "To lose",
+      "hint": "To perish",
+      "examples": [
+        {
+          "english": "I have to lose weight",
+          "spanish": "Tengo perder peso"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "pierdo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I lose my phone",
+              "spanish": "Pierdo mi teléfono"
+            }
+          ]
+        },
+        {
+          "verb": "pierda",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "Did you lose money?",
+              "spanish": "Pierda dinero?"
+            }
+          ]
+        },
+        {
+          "verb": "pierdan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They lose patience",
+              "spanish": "Pierdan la paciencia"
+            }
+          ]
+        },
+        {
+          "verb": "pierdas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You lose nothing",
+              "spanish": "No pierdas nada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "perder",
+      "definition": "To lose",
+      "hint": "To perish",
+      "examples": [
+        {
+          "english": "I have to lose weight",
+          "spanish": "Tengo perder peso"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "pierdo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I lose my phone",
+              "spanish": "Pierdo mi teléfono"
+            }
+          ]
+        },
+        {
+          "verb": "pierda",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "Did you lose money?",
+              "spanish": "Pierda dinero?"
+            }
+          ]
+        },
+        {
+          "verb": "pierdan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They lose patience",
+              "spanish": "Pierdan la paciencia"
+            }
+          ]
+        },
+        {
+          "verb": "pierdas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You lose nothing",
+              "spanish": "No pierdas nada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "empezar",
+      "definition": "To start",
+      "hint": "comenzar = to start + begin",
+      "examples": [
+        {
+          "english": "I have to lose weight",
+          "spanish": "Tengo perder peso"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "empiezo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I lose my phone",
+              "spanish": "Pierdo mi teléfono"
+            }
+          ]
+        },
+        {
+          "verb": "empieza",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "When are you starting?",
+              "spanish": "Cuando empieza?"
+            }
+          ]
+        },
+        {
+          "verb": "empiezan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They start tomorrow",
+              "spanish": "Empiezan manána"
+            }
+          ]
+        },
+        {
+          "verb": "empiezas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You start from here",
+              "spanish": "Empiezas de aquí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "dormir",
+      "definition": "To sleep",
+      "hint": "dormant / dormitory / staying still",
+      "examples": [
+        {
+          "english": "You need to go sleep",
+          "spanish": "Debes ir dormir"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "duermo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I fall asleep (it's boring)",
+              "spanish": "Me duermo"
+            }
+          ]
+        },
+        {
+          "verb": "duerme",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "When do you sleep?",
+              "spanish": "Cuando duerme?"
+            }
+          ]
+        },
+        {
+          "verb": "duermen",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They sleep at the house",
+              "spanish": "Duermen en la casa"
+            }
+          ]
+        },
+        {
+          "verb": "duermes",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You sleep with me",
+              "spanish": "Duermes con me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "encontrar",
+      "definition": "To encounter",
+      "hint": "To find / To meet",
+      "examples": [
+        {
+          "english": "I have to find it",
+          "spanish": "Tengo qué encontrar lo"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "encuentro",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I'm finding it",
+              "spanish": "Lo encuentro"
+            }
+          ]
+        },
+        {
+          "verb": "encuentra",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "Let me know when you find it",
+              "spanish": "Me saber cuando encuentra lo"
+            }
+          ]
+        },
+        {
+          "verb": "encuentran",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They find something interesting",
+              "spanish": "Encuentran algo interesante"
+            }
+          ]
+        },
+        {
+          "verb": "encuentras",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You find it difficult",
+              "spanish": "Lo encuentras difícil"
             }
           ]
         }
