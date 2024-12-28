@@ -70,7 +70,7 @@
       "type": "irregular",
       "verb": "pensar",
       "definition": "To think / To plan / To imagine",
-      "hint": "Similar to ponder",
+      "hint": "Similar to ponder / pencil",
       "examples": [
         {
           "english": "I try to think ahead",
@@ -85,6 +85,10 @@
             {
               "english": "I plan to eat",
               "spanish": "Pienso comer"
+            },
+            {
+              "english": "I think so (I think that yes)",
+              "spanish": "Pienso qué si"
             }
           ]
         },
@@ -115,6 +119,20 @@
             {
               "english": "What do you think?",
               "spanish": "Qué piensas?"
+            },
+            {
+              "english": "What do you think to do? (What do you plan on doing?)",
+              "spanish": "Qué piensas hacer?"
+            }
+          ]
+        },
+        {
+          "verb": "pensamos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We think similarly",
+              "spanish": "Pensamos similarmente"
             }
           ]
         }
@@ -633,6 +651,16 @@
             {
               "english": "You show your photo",
               "spanish": "Muestras tu foto"
+            }
+          ]
+        },
+        {
+          "verb": "mostramos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We show passion",
+              "spanish": "Mostramos pasíon"
             }
           ]
         }
@@ -1347,6 +1375,260 @@
             {
               "english": "You find it difficult",
               "spanish": "Lo encuentras difícil"
+            }
+          ]
+        },
+        {
+          "verb": "encontramos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We find money",
+              "spanish": "Encontramos dinero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "querer",
+      "definition": "To want / To love",
+      "hint": "To seek / To desire",
+      "examples": [
+        {
+          "english": "To love",
+          "spanish": "Querer de Verdad"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "quiero",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I want to live",
+              "spanish": "Quiero vivir"
+            }
+          ]
+        },
+        {
+          "verb": "quiere",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "What do you want to drink?",
+              "spanish": "Qué quiere usted tomar?"
+            }
+          ]
+        },
+        {
+          "verb": "quieren",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "Everybody wants to go",
+              "spanish": "Todos quieren ir"
+            }
+          ]
+        },
+        {
+          "verb": "quieres",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You want to leave?",
+              "spanish": "Quieres salir?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "colgar",
+      "definition": "To hang / To hold",
+      "hint": "Hangar",
+      "examples": [
+        {
+          "english": "I want to hang my clothes",
+          "spanish": "Quiero colgar mi ropa"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "cuelgo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I hang them on the wall",
+              "spanish": "Los cuelgo de la pared"
+            }
+          ]
+        },
+        {
+          "verb": "cuelga",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "You hang them here",
+              "spanish": "Cuelga aquí"
+            }
+          ]
+        },
+        {
+          "verb": "cuelgan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They hang them",
+              "spanish": "Los cuelgan"
+            }
+          ]
+        },
+        {
+          "verb": "cuelgas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "She hangs them",
+              "spanish": "Los cuelgas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "tomar",
+      "definition": "To take / To drink (bebér)",
+      "hint": "Tomato juice",
+      "examples": [
+        {
+          "english": "I don't want to take sugar",
+          "spanish": "No quiero tomar azúcar"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "tomo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I don't drink alcohol",
+              "spanish": "No tomo alcohol"
+            }
+          ]
+        },
+        {
+          "verb": "toma",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "You don't take rice",
+              "spanish": "No toma arroz"
+            }
+          ]
+        },
+        {
+          "verb": "toman",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They drink alot",
+              "spanish": "Toman mucho"
+            }
+          ]
+        },
+        {
+          "verb": "tomas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You take oil",
+              "spanish": "Tomas aceite"
+            },
+            {
+              "english": "What are you taking (drinking)?",
+              "spanish": "Qué tomas?"
+            }
+          ]
+        },
+        {
+          "verb": "tomamos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We drink here",
+              "spanish": "Tomamos aquí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "cerrar",
+      "definition": "To close",
+      "hint": "Cellar",
+      "examples": [
+        {
+          "english": "",
+          "spanish": ""
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "cierro",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "",
+              "spanish": ""
+            }
+          ]
+        },
+        {
+          "verb": "cierra",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "",
+              "spanish": ""
+            }
+          ]
+        },
+        {
+          "verb": "cierran",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "",
+              "spanish": ""
+            }
+          ]
+        },
+        {
+          "verb": "cierras",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You take oil",
+              "spanish": "Tomas aceite"
+            },
+            {
+              "english": "",
+              "spanish": ""
+            }
+          ]
+        },
+        {
+          "verb": "cerramos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "",
+              "spanish": ""
             }
           ]
         }
