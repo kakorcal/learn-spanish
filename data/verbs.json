@@ -313,6 +313,16 @@
               "spanish": "Cuando vienes?"
             }
           ]
+        },
+        {
+          "verb": "venimos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We come together",
+              "spanish": "Venimos juntos"
+            }
+          ]
         }
       ]
     },
@@ -1056,7 +1066,7 @@
       "type": "irregular",
       "verb": "entender",
       "definition": "To understand",
-      "hint": "To extend knowledge",
+      "hint": "To extend knowledge. Comprender is a synonym but less common",
       "examples": [
         {
           "english": "I have to study to understand",
@@ -1573,8 +1583,8 @@
       "hint": "Cellar",
       "examples": [
         {
-          "english": "",
-          "spanish": ""
+          "english": "I have to close the store",
+          "spanish": "Tengo qué cerrar la tienda"
         }
       ],
       "subjects": [
@@ -1583,8 +1593,8 @@
           "subject": "first person singular",
           "examples": [
             {
-              "english": "",
-              "spanish": ""
+              "english": "I close the door",
+              "spanish": "Cierro puerta"
             }
           ]
         },
@@ -1593,8 +1603,8 @@
           "subject": "second person singular, third person singular",
           "examples": [
             {
-              "english": "",
-              "spanish": ""
+              "english": "She closes the store",
+              "spanish": "Cierra la tienda"
             }
           ]
         },
@@ -1603,8 +1613,8 @@
           "subject": "second person plural, third person plural",
           "examples": [
             {
-              "english": "",
-              "spanish": ""
+              "english": "They close the restaurant",
+              "spanish": "Cierran el restaurante"
             }
           ]
         },
@@ -1613,12 +1623,8 @@
           "subject": "second person singular informal",
           "examples": [
             {
-              "english": "You take oil",
-              "spanish": "Tomas aceite"
-            },
-            {
-              "english": "",
-              "spanish": ""
+              "english": "You close window",
+              "spanish": "Cierras la ventana"
             }
           ]
         },
@@ -1627,8 +1633,72 @@
           "subject": "first person plural",
           "examples": [
             {
-              "english": "",
-              "spanish": ""
+              "english": "We close the store",
+              "spanish": "Cerramos la tienda"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "preferir",
+      "definition": "To prefer",
+      "hint": "Same spelling as in English",
+      "examples": [
+        {
+          "english": "To prefer one or the other",
+          "spanish": "Preferir uno u otro"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "prefiero",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I prefer to live here",
+              "spanish": "Prefiero vivir aquí"
+            }
+          ]
+        },
+        {
+          "verb": "prefiere",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "She prefers to shop here",
+              "spanish": "Prefiere comprar aquí"
+            }
+          ]
+        },
+        {
+          "verb": "prefieren",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They always prefer to visit later",
+              "spanish": "Prefieren siempre visitar mas tarde"
+            }
+          ]
+        },
+        {
+          "verb": "prefieres",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "Do you prefer coffee or tea?",
+              "spanish": "Prefieres café o té"
+            }
+          ]
+        },
+        {
+          "verb": "preferimos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We prefer to eat now",
+              "spanish": "Preferimos comer ahora"
             }
           ]
         }
