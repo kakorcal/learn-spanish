@@ -1,8 +1,112 @@
 {
-  "colloquial": [
+  "expressions": [
     {
-      "expression": "caballero nomás",
-      "translation": "expressing resigned acceptance of an uncomfortable circumstance"
+      "expression": "¡Qué guay!",
+      "region": "Spain",
+      "meaning": "How cool!",
+      "usage": "Used to express excitement or approval."
+    },
+    {
+      "expression": "No pasa nada.",
+      "meaning": "It's okay or No worries.",
+      "usage": "Used to reassure someone or downplay a problem."
+    },
+    {
+      "expression": "¡Ándale!",
+      "region": "Mexico",
+      "meaning": "Come on! or Hurry up!",
+      "usage": "Encourages someone to move faster or take action."
+    },
+    {
+      "expression": "¿Qué onda?",
+      "region": "Mexico, Central America",
+      "meaning": "What's up?",
+      "usage": "A casual way of asking how someone is doing."
+    },
+    {
+      "expression": "Estar en las nubes.",
+      "meaning": "To be in the clouds.",
+      "usage": "Used to describe someone who is distracted or daydreaming."
+    },
+    {
+      "expression": "Ser un trozo de pan.",
+      "meaning": "To be a piece of bread.",
+      "usage": "Refers to someone who is very kind or good-hearted."
+    },
+    {
+      "expression": "Estar como una cabra.",
+      "meaning": "To be like a goat.",
+      "usage": "Describes someone who is a little crazy or eccentric."
+    },
+    {
+      "expression": "Ponerse las pilas.",
+      "meaning": "To put in the batteries.",
+      "usage": "Encourages someone to get motivated or start working hard."
+    },
+    {
+      "expression": "Estar de mala leche.",
+      "meaning": "To be in bad milk.",
+      "usage": "Refers to being in a bad mood."
+    },
+    {
+      "expression": "Tener la cabeza llena de pájaros.",
+      "meaning": "To have a head full of birds.",
+      "usage": "Describes someone who has unrealistic or naive ideas."
+    },
+    {
+      "expression": "Ir al grano.",
+      "meaning": "To go to the grain.",
+      "usage": "Means getting to the point of a conversation."
+    },
+    {
+      "expression": "Echar una mano.",
+      "meaning": "To throw a hand.",
+      "usage": "Means helping someone."
+    },
+    {
+      "expression": "No tener pelos en la lengua.",
+      "meaning": "To not have hairs on the tongue.",
+      "usage": "Describes someone who speaks very bluntly or honestly."
+    },
+    {
+      "expression": "Estar hecho polvo.",
+      "meaning": "To be made of dust.",
+      "usage": "Means feeling very tired or exhausted."
+    },
+    {
+      "expression": "Ser pan comido.",
+      "meaning": "To be eaten bread.",
+      "usage": "Refers to something that is very easy to do."
+    },
+    {
+      "expression": "Tomar el pelo.",
+      "meaning": "To pull someone’s hair.",
+      "usage": "Means joking around or teasing someone."
+    },
+    {
+      "expression": "Estar en la luna.",
+      "meaning": "To be on the moon.",
+      "usage": "Describes someone who is not paying attention."
+    },
+    {
+      "expression": "Estar como un flan.",
+      "meaning": "To be like a flan.",
+      "usage": "Refers to being nervous or shaky."
+    },
+    {
+      "expression": "Tirar la toalla.",
+      "meaning": "To throw in the towel.",
+      "usage": "Means giving up on something."
+    },
+    {
+      "expression": "Hablar por los codos.",
+      "meaning": "To talk through the elbows.",
+      "usage": "Refers to someone who talks a lot."
+    },
+    {
+      "expression": "Caballero nomás",
+      "meaning": "No more knights.",
+      "usage": "Expressing resigned acceptance of an uncomfortable circumstance."     
     }
   ]
 }
