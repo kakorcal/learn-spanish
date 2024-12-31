@@ -40,6 +40,19 @@
       ]
     },
     {
+      "rule": "Words ending in '-ary' converts to '-ario'.",
+      "examples": [
+        {
+          "english": "Necessary",
+          "spanish": "Necessario"
+        },
+        {
+          "english": "Contrary",
+          "spanish": "Contrario"
+        }
+      ]
+    },
+    {
       "rule": "Words ending in '-ible'/'-able' are pronounced as 'bleh'",
       "examples": [
         {
@@ -76,11 +89,254 @@
       ]
     },
     {
+      "rule": "There are no words that have a double 's'",
+      "examples": [
+        {
+          "english": "Possible",
+          "spanish": "Posible"
+        }
+      ]
+    },
+    {
       "rule": "'h's are silent unless it is 'ch'",
       "examples": [
         {
           "english": "Hospital",
           "spanish": "Hospital"
+        },
+        {
+          "english": "Puppy",
+          "spanish": "Cachorro"
+        }
+      ]
+    },
+    {
+      "rule": "'z's are pronounced as 'th' in Spain or 's' in Latin America",
+      "examples": [
+        {
+          "english": "Organize",
+          "spanish": "Organizo"
+        }
+      ]
+    },
+    {
+      "rule": "Past tense words have accents at the end",
+      "examples": [
+        {
+          "english": "I tried",
+          "spanish": "Inten'to'"
+        }
+      ]
+    },
+    {
+      "rule": "Present tense words have accents at the second last syllable",
+      "examples": [
+        {
+          "english": "I try",
+          "spanish": "In'ten'to"
+        }
+      ]
+    },
+    {
+      "rule": "Future tense words can use present tense rules if given future context",
+      "examples": [
+        {
+          "english": "I will try tomorrow",
+          "spanish": "In'ten'to manána"
+        }
+      ]
+    },
+    {
+      "rule": "No tense words have no accent",
+      "examples": [
+        {
+          "english": "To try",
+          "spanish": "Intentar"
+        }
+      ]
+    },
+    {
+      "rule": "'ar' verbs are the biggest group. New verbs adopt 'ar'",
+      "examples": [
+        {
+          "english": "To Twitter",
+          "spanish": "Twittar"
+        }
+      ]
+    },
+    {
+      "rule": "Functional words should come before conjugated verbs",
+      "examples": [
+        {
+          "english": "I want 'it'",
+          "spanish": "'Lo' quiero"
+        }
+      ]
+    },
+    {
+      "rule": "Functional words can come before or after 'to' form verbs",
+      "examples": [
+        {
+          "english": "I want to see 'it'",
+          "spanish": "Quiero ver lo"
+        },
+        {
+          "english": "I want to see 'it'",
+          "spanish": "Lo quiero ver"
+        }
+      ]
+    },
+    {
+      "rule": "Feminine words end in 'a' or 'ion'",
+      "examples": [
+        {
+          "english": "The house",
+          "spanish": "La casa"
+        },
+        {
+          "english": "The opinion",
+          "spanish": "La opinion"
+        }
+      ]
+    },
+    {
+      "rule": "Words ending in '-ity' converts to '-idad'. These words are feminine",
+      "examples": [
+        {
+          "english": "The diversity",
+          "spanish": "La diversidad"
+        },
+        {
+          "english": "The clarity",
+          "spanish": "La claridad"
+        }
+      ]
+    },
+    {
+      "rule": "'ir' and 'er' verbs expand conjugation by using 'e' as its base. These words are historic and can have irregularity when conjugating",
+      "examples": [
+        {
+          "english": "To sell",
+          "spanish": "Vend'er'"
+        },
+        {
+          "english": "I sell",
+          "spanish": "Vend'o'"
+        },
+        {
+          "english": "He/She/It/You(formal) sells",
+          "spanish": "Vend'e'"
+        },
+        {
+          "english": "They/You(plural) sells",
+          "spanish": "Vend'en'"
+        },
+        {
+          "english": "You(informal) sells",
+          "spanish": "Vend'es'"
+        },
+        {
+          "english": "We sell",
+          "spanish": "Vend'emos'"    
+        }
+      ]
+    },
+    {
+      "rule": "'ar' verbs expand conjugation by using 'a' as its base",
+      "examples": [
+        {
+          "english": "To collaborate",
+          "spanish": "Collabor'ar'"
+        },
+        {
+          "english": "I collaborate",
+          "spanish": "Collabor'o'"
+        },
+        {
+          "english": "He/She/It/You(formal) collaborates",
+          "spanish": "Collabor'a'"
+        },
+        {
+          "english": "They/You(plural) collaborate",
+          "spanish": "Collabor'an'"
+        },
+        {
+          "english": "You(informal) collaborates",
+          "spanish": "Collabor'as'"
+        },
+        {
+          "english": "We collaborate",
+          "spanish": "Collabor'amos'"
+        }
+      ]
+    },
+    {
+      "rule": "Use 'a' to express '-ing' words before the 'to' form of a verb",
+      "examples": [
+        {
+          "english": "I am going out to eat",
+          "spanish": "Salgo a comer"
+        },
+        {
+          "english": "When are you coming to eat?",
+          "spanish": "Cuando vienes a comer?"
+        }
+      ]
+    },
+    {
+      "rule": "When repeating an expression after a conjunction, you can shorten it with 'si'",
+      "examples": [
+        {
+          "english": "I don't want to invite him but she wants to invite him (as in 'she does')",
+          "spanish": "Yo no tengo invitar lo pero ella si"
+        }
+      ]
+    },
+    {
+      "rule": "The first 'e' in 'to' form present tense verbs typically will split as 'ie'",
+      "examples": [
+        {
+          "english": "Tempo",
+          "spanish": "T'ie'mpo"
+        },
+        {
+          "english": "'To want' / 'You want'",
+          "spanish": "'Querer' / 'Quieres'"
+        }
+      ]
+    },
+    {
+      "rule": "The first 'o' in 'to' form present tense verbs typically will split as 'ue'",
+      "examples": [
+        {
+          "english": "'To put' / 'I put'",
+          "spanish": "'Poder' / 'Puedo'"
+        }
+      ]
+    },
+    {
+      "rule": "A verb is used as a noun when 'a' or 'the' is in front of the word",
+      "examples": [
+        {
+          "english": "An encounter",
+          "spanish": "Un encontrar"
+        },
+        {
+          "english": "His encounter",
+          "spanish": "El encontrar"
+        }
+      ]
+    },
+    {
+      "rule": "Words starting in 'al' are typically from the Arabic language",
+      "examples": [
+        {
+          "english": "Alcohol",
+          "spanish": "'Al'cohol"
+        },
+        {
+          "english": "Algebra",
+          "spanish": "'Al'gebra"
         }
       ]
     }
