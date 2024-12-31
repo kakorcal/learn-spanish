@@ -2,6 +2,70 @@
   "verbs": [
     {
       "type": "irregular",
+      "verb": "ir",
+      "definition": "to go",
+      "hint": "Unique from other conjugations",
+      "examples": [
+        {
+          "english": "To have to go tonight",
+          "spanish": "Tener qué ir esta noche"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "voy",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I am going here",
+              "spanish": "Voy a aquí"
+            }
+          ]
+        },
+        {
+          "verb": "va",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "To where are you going?",
+              "spanish": "A dondé va?"
+            }
+          ]
+        },
+        {
+          "verb": "van",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They go to the restaurant",
+              "spanish": "Van al restaurante"
+            }
+          ]
+        },
+        {
+          "verb": "vas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You go tomorrow",
+              "spanish": "Vas manána"
+            }
+          ]
+        },
+        {
+          "verb": "vamos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We go now",
+              "spanish": "Vamos ahora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
       "verb": "tener",
       "definition": "to have",
       "hint": "Relations to '-tain' words such as contain",

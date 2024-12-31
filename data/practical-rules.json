@@ -1,0 +1,88 @@
+{
+  "rules": [
+    {
+      "rule": "Words ending in '-ant'/'-ent' converts to '-nte'",
+      "examples": [
+        {
+          "english": "Different",
+          "spanish": "Diferente"
+        },
+        {
+          "english": "Constant",
+          "spanish": "Constante"
+        }
+      ]
+    },
+    {
+      "rule": "Words ending in '-ly' converts to 'mente'",
+      "examples": [
+        {
+          "english": "Constantly",
+          "spanish": "Constantemente"
+        },
+        {
+          "english": "Really",
+          "spanish": "Realmente"
+        }
+      ]
+    },
+    {
+      "rule": "Words ending in '-ence'/'-ance' converts to '-cia'",
+      "examples": [
+        {
+          "english": "Compliance",
+          "spanish": "Compliancia"
+        },
+        {
+          "english": "Influence",
+          "spanish": "Influencia"
+        }
+      ]
+    },
+    {
+      "rule": "Words ending in '-ible'/'-able' are pronounced as 'bleh'",
+      "examples": [
+        {
+          "english": "Possible",
+          "spanish": "Posible"
+        }
+      ]
+    },
+    {
+      "rule": "Words ending in '-tion' converts to '-ción'",
+      "examples": [
+        {
+          "english": "Confirmation",
+          "spanish": "Confirmación"
+        }
+      ]
+    },
+    {
+      "rule": "The first 'R' in a word is usually a rolling 'R'",
+      "examples": [
+        {
+          "english": "Real",
+          "spanish": "Real"
+        }
+      ]
+    },
+    {
+      "rule": "Double 'r' in a word is a rolling 'r'",
+      "examples": [
+        {
+          "english": "Dog",
+          "spanish": "Perro"
+        }
+      ]
+    },
+    {
+      "rule": "'h's are silent unless it is 'ch'",
+      "examples": [
+        {
+          "english": "Hospital",
+          "spanish": "Hospital"
+        }
+      ]
+    }
+  ]
+}
