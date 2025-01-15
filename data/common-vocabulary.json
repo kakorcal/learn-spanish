@@ -187,5 +187,12 @@
     { "english": "Gymnastics", "spanish": "Gimnasia" },
     { "english": "Boxing", "spanish": "Boxeo" },
     { "english": "Golf", "spanish": "Golf" }
+  ],
+  "adverbs": [
+    { "english": "soon", "spanish": "pronto" },
+    { "english": "now", "spanish": "ahora" },
+    { "english": "tonight", "spanish": "esta noche" },
+    { "english": "mas tarde", "spanish": "later" },
+    { "english": "tomorrow", "spanish": "manána" }
   ]
 }

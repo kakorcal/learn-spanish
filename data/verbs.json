@@ -316,6 +316,70 @@
     },
     {
       "type": "irregular",
+      "verb": "ver",
+      "definition": "To see",
+      "hint": "Vision",
+      "examples": [
+        {
+          "english": "I am going to see them",
+          "spanish": "Los voy a ver"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "veo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I'm seeing her later",
+              "spanish": "La veo mas tarde"
+            }
+          ]
+        },
+        {
+          "verb": "ve",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "You see them?",
+              "spanish": "Los ve?"
+            }
+          ]
+        },
+        {
+          "verb": "ven",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They see nothing",
+              "spanish": "Ven nada"
+            }
+          ]
+        },
+        {
+          "verb": "ves",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You see clear",
+              "spanish": "Ves claro"
+            }
+          ]
+        },
+        {
+          "verb": "vemos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We see the restaurant",
+              "spanish": "Vemos el restaurante"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
       "verb": "venir",
       "definition": "To come",
       "hint": "Derives from convienient",
