@@ -567,6 +567,70 @@
       ]
     },
     {
+      "type": "irregular",
+      "verb": "haber",
+      "definition": "To have (+ verb)",
+      "hint": "Common way to link past tense verbs. Check the vowels in the word to derive conjugations. They follow similar rules to saber.",
+      "examples": [
+        {
+          "english": "I should have driven",
+          "spanish": "Yo debería haber manejado"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "he",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I have taken it",
+              "spanish": "Lo he tomado"
+            }
+          ]
+        },
+        {
+          "verb": "ha",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "Has she taken it?",
+              "spanish": "Lo ha tomado?"
+            }
+          ]
+        },
+        {
+          "verb": "han",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "Where have they passed?",
+              "spanish": "Dondé han pasado?"
+            }
+          ]
+        },
+        {
+          "verb": "has",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "Have you tried it?",
+              "spanish": "Lo has intentado?"
+            }
+          ]
+        },
+        {
+          "verb": "hemos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We have shown it to him",
+              "spanish": "Lo hemos mostrado a el"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "regular",
       "verb": "explicar",
       "definition": "To explain",

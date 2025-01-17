@@ -116,5 +116,57 @@
     { "english": "do", "spanish": "hacer" },
     { "english": "does", "spanish": "hace" },
     { "english": "did", "spanish": "hizo" }
+  ],
+  "modal-verbs": [
+    { "english": "can", "spanish": "poder" },
+    { "english": "could", "spanish": "podría" },
+    { "english": "may", "spanish": "puede" },
+    { "english": "might", "spanish": "podría" },
+    { "english": "shall", "spanish": "deberá" },
+    { "english": "should", "spanish": "debería" },
+    { "english": "will", "spanish": "será" },
+    { "english": "would", "spanish": "sería" },
+    { "english": "must", "spanish": "debe" },
+    { "english": "ought to", "spanish": "debería" }
+  ],
+  "determiners": [
+    { "english": "this", "spanish": "este/esta" },
+    { "english": "that", "spanish": "ese/esa" },
+    { "english": "these", "spanish": "estos/estas" },
+    { "english": "those", "spanish": "esos/esas" },
+    { "english": "my", "spanish": "mi" },
+    { "english": "your", "spanish": "tu/su" },
+    { "english": "his", "spanish": "su" },
+    { "english": "her", "spanish": "su" },
+    { "english": "its", "spanish": "su" },
+    { "english": "our", "spanish": "nuestro/a" },
+    { "english": "their", "spanish": "su" }
+  ],
+  "quantifiers": [
+    { "english": "all", "spanish": "todos" },
+    { "english": "any", "spanish": "cualquiera" },
+    { "english": "both", "spanish": "ambos" },
+    { "english": "each", "spanish": "cada uno" },
+    { "english": "every", "spanish": "cada" },
+    { "english": "few", "spanish": "pocos" },
+    { "english": "little", "spanish": "poco" },
+    { "english": "many", "spanish": "muchos" },
+    { "english": "much", "spanish": "mucho" },
+    { "english": "no", "spanish": "ningún" },
+    { "english": "several", "spanish": "varios" },
+    { "english": "some", "spanish": "algunos" }
+  ],
+  "functional-adverbs": [
+    { "english": "not", "spanish": "no" },
+    { "english": "never", "spanish": "nunca" },
+    { "english": "very", "spanish": "muy" },
+    { "english": "quite", "spanish": "bastante" },
+    { "english": "too", "spanish": "demasiado" },
+    { "english": "rather", "spanish": "bastante" },
+    { "english": "almost", "spanish": "casi" },
+    { "english": "however", "spanish": "sin embargo" },
+    { "english": "therefore", "spanish": "por lo tanto" },
+    { "english": "hence", "spanish": "por ende" },
+    { "english": "thus", "spanish": "así" }
   ]
 }

@@ -129,6 +129,27 @@
       ]
     },
     {
+      "rule": "'ar' verbs will lose their 'ar' and replace it with 'ado' for past tense versions of the verbs",
+      "examples": [
+        {
+          "english": "I have spoken",
+          "spanish": "He hablado"
+        },
+        {
+          "english": "We have anticipated it for a long time",
+          "spanish": "Lo hemos anticipado por mucho tiempo"
+        },
+        {
+          "english": "Where have (did) you celebrated it?",
+          "spanish": "Dondé lo has celebrado?"
+        },
+        {
+          "english": "Has she taken it?",
+          "spanish": "Lo ha tomado?"
+        }
+      ]
+    },
+    {
       "rule": "Present tense words have accents at the second last syllable",
       "examples": [
         {
@@ -143,6 +164,38 @@
         {
           "english": "I will try tomorrow",
           "spanish": "In'ten'to manána"
+        },
+        {
+          "english": "I'm seeing her later",
+          "spanish": "La veo mas tardé"
+        },
+        {
+          "english": "Are you seeing them (female) soon?",
+          "spanish": "Las ves pronto?"
+        },
+        {
+          "english": "We are going to see her",
+          "spanish": "La vamos a ver"
+        },
+        {
+          "english": "Are you going to see him soon?",
+          "spanish": "Lo vas a ver pronto?"
+        },
+        {
+          "english": "Are you going to see us soon?",
+          "spanish": "Nos vas a ver pronto?"
+        },
+        {
+          "english": "Let's speak next week -> Let's speak the week that (it) comes",
+          "spanish": "Hablamos la semana qué viene"
+        },
+        {
+          "english": "We see each other -> We see us -> Goodbye",
+          "spanish": "Nos vemos"
+        },
+        {
+          "english": "We will see each other next week",
+          "spanish": "Nos vemos la semana qué viene"
         }
       ]
     },
@@ -165,7 +218,29 @@
       ]
     },
     {
-      "rule": "Functional words should come before conjugated verbs",
+      "rule": "For nouns you can put 'a' ('una') or 'the' ('la') in front of it",
+      "examples": [
+        {
+          "english": "A dog",
+          "spanish": "Una perro"
+        },
+        {
+          "english": "The cat",
+          "spanish": "La gato"
+        }
+      ]
+    },
+    {
+      "rule": "For adjectives you can put 'is' ('es') in front of it",
+      "examples": [
+        {
+          "english": "He is tall",
+          "spanish": "El es alto"
+        }
+      ]
+    },
+    {
+      "rule": "Functional words (pronouns) should come before conjugated verbs",
       "examples": [
         {
           "english": "I want 'it'",
@@ -174,7 +249,7 @@
       ]
     },
     {
-      "rule": "Functional words can come before or after 'to' form verbs",
+      "rule": "Functional words (pronouns) can come before or after 'to' form verbs. Putting the pronoun before is more common.",
       "examples": [
         {
           "english": "I want to see 'it'",
