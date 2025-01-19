@@ -86,19 +86,25 @@
     { "english": "without", "spanish": "sin" }
   ],
   "pronouns": {
-    "personal": [
-      { "english": "i", "spanish": "yo" },
-      { "english": "you", "spanish": "tú/usted" },
+    "object-group": [
+      { "english": "him, you (formal), it", "spanish": "lo/le" },
+      { "english": "her", "spanish": "la/le" },
+      { "english": "you (informal)", "spanish": "te" },
+      { "english": "us", "spanish": "nos" },
+      { "english": "them (masculine/mixed)", "spanish": "los/les" },
+      { "english": "them (feminine)", "spanish": "las/les" },
+      { "english": "me", "spanish": "me" }
+    ],
+    "subject-group": [
       { "english": "he", "spanish": "él" },
       { "english": "she", "spanish": "ella" },
-      { "english": "it", "spanish": "eso/ello" },
-      { "english": "we", "spanish": "nosotros/as" },
-      { "english": "they", "spanish": "ellos/ellas" },
-      { "english": "me", "spanish": "me" },
-      { "english": "him", "spanish": "lo/le" },
-      { "english": "her", "spanish": "la/le" },
-      { "english": "us", "spanish": "nos" },
-      { "english": "them", "spanish": "los/las/les" }
+      { "english": "you (informal)", "spanish": "tú" },
+      { "english": "you (formal)", "spanish": "usted" },
+      { "english": "we (masculine/mixed)", "spanish": "nosotros" },
+      { "english": "we (feminine)", "spanish": "nosotras" },
+      { "english": "they (masculine/mixed)", "spanish": "ellos" },
+      { "english": "they (feminine)", "spanish": "ellas" },
+      { "english": "i", "spanish": "yo" }
     ]
   },
   "auxiliary-verbs": [
