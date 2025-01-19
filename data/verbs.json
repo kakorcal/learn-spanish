@@ -1895,6 +1895,70 @@
           ]
         }
       ]
+    },
+    {
+      "type": "regular",
+      "verb": "terminar",
+      "definition": "To finish",
+      "hint": "To terminated",
+      "examples": [
+        {
+          "english": "I need to finish it",
+          "spanish": "Lo debo terminar"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "termino",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I finish eating",
+              "spanish": "Termino comer"
+            }
+          ]
+        },
+        {
+          "verb": "termina",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "He finishs later",
+              "spanish": "Termina mas tarde"
+            }
+          ]
+        },
+        {
+          "verb": "terminan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They finish soon",
+              "spanish": "Terminan pronto"
+            }
+          ]
+        },
+        {
+          "verb": "terminas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "Do you finish today?",
+              "spanish": "Terminas hoy?"
+            }
+          ]
+        },
+        {
+          "verb": "terminamos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We finish next week",
+              "spanish": "Terminamos la semana qué viene"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

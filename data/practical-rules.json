@@ -150,6 +150,23 @@
       ]
     },
     {
+      "rule": "'ir/er' verbs will lose their 'ir/er' and replace it with 'ido' for past tense versions of the verbs",
+      "examples": [
+        {
+          "english": "I have sold it",
+          "spanish": "Lo he vendido"
+        },
+        {
+          "english": "They have arrived",
+          "spanish": "Han venido"
+        },
+        {
+          "english": "We have lost",
+          "spanish": "Hemos perdido"
+        }
+      ]
+    },
+    {
       "rule": "Present tense words have accents at the second last syllable",
       "examples": [
         {
@@ -240,7 +257,7 @@
       ]
     },
     {
-      "rule": "Functional words (pronouns) should come before conjugated verbs",
+      "rule": "Functional object words (pronouns) should come before conjugated verbs",
       "examples": [
         {
           "english": "I want 'it'",
@@ -249,7 +266,7 @@
       ]
     },
     {
-      "rule": "Functional words (pronouns) can come before or after 'to' form verbs. Putting the pronoun before is more common.",
+      "rule": "Functional object words (pronouns) can come before or after 'to' form verbs. Putting the pronoun before is more common.",
       "examples": [
         {
           "english": "I want to see 'it'",
@@ -258,6 +275,37 @@
         {
           "english": "I want to see 'it'",
           "spanish": "Lo quiero ver"
+        }
+      ]
+    },
+    {
+      "rule": "Pronoun object group: lo, la, te, nos, los, las, me",
+      "examples": [
+        {
+          "english": "I want to see you",
+          "spanish": "Te quiero ver"
+        }
+      ]
+    },
+    {
+      "rule": "Pronoun subject group: el, ella, tú, nosotros, nosotras, usted, yo, ellos, ellas",
+      "examples": [
+        {
+          "english": "They want to see us",
+          "spanish": "Ellos nos quieren ver"
+        },
+        {
+          "english": "Do you have time to talk?",
+          "spanish": "Usted tenga tiempo hablar?"
+        }
+      ]
+    },
+    {
+      "rule": "Usted comes from 'Vuestra Merced' which means 'Your mercy'",
+      "examples": [
+        {
+          "english": "Do you know where to go",
+          "spanish": "Usted sabe dondé ir?"
         }
       ]
     },
