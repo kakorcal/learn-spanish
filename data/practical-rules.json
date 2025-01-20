@@ -279,6 +279,23 @@
       ]
     },
     {
+      "rule": "Functional subject words (pronouns) are flexible to be placed in the beginning, middle or end of a sentence. Depends on dialect and region",
+      "examples": [
+        {
+          "english": "Are you giving it to me tomorrow? (You give me it tomorrow?)",
+          "spanish": "Usted me lo da manãna?"
+        },
+        {
+          "english": "Are you giving it to me tomorrow? (You give me it tomorrow?)",
+          "spanish": "Me lo da usted manãna?"
+        },
+        {
+          "english": "Are you giving it to me tomorrow? (You give me it tomorrow?)",
+          "spanish": "Me lo da manãna usted?"
+        }
+      ]
+    },
+    {
       "rule": "Pronoun object group: lo, la, te, nos, los, las, me",
       "examples": [
         {
@@ -549,6 +566,24 @@
         {
           "english": "Algebra",
           "spanish": "'Al'gebra"
+        }
+      ]
+    },
+    {
+      "rule": "If a words ends in a consonant, you add 'es' (not just 's')",
+      "examples": [
+        {
+          "english": "You guys",
+          "spanish": "Ustedes"
+        }
+      ]
+    },
+    {
+      "rule": "You clarify saying 'you guys' as opposed to 'they/them' with ustedes",
+      "examples": [
+        {
+          "english": "Are you guys give it to us tomorrow? (You guys give us it tomorrow?)",
+          "spanish": "Ustedes nos lo dan manãna?"
         }
       ]
     }

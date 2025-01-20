@@ -100,6 +100,7 @@
       { "english": "she", "spanish": "ella" },
       { "english": "you (informal)", "spanish": "tú" },
       { "english": "you (formal)", "spanish": "usted" },
+      { "english": "you guys (formal)", "spanish": "ustedes" },
       { "english": "we (masculine/mixed)", "spanish": "nosotros" },
       { "english": "we (feminine)", "spanish": "nosotras" },
       { "english": "they (masculine/mixed)", "spanish": "ellos" },

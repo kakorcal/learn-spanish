@@ -2027,6 +2027,102 @@
           ]
         }
       ]
+    },
+    {
+      "type": "irregular",
+      "verb": "dar",
+      "definition": "To give",
+      "hint": "Similar pattern to ir/voy",
+      "examples": [
+        {
+          "english": "To give birth",
+          "spanish": "Dar a luz"
+        },
+        {
+          "english": "I want to give",
+          "spanish": "Quireo dar"
+        },
+        {
+          "english": "I want to give it to you (I want to give you it (informal))",
+          "spanish": "Te lo quiero dar"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "doy",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I give them",
+              "spanish": "Los doy"
+            },
+            {
+              "english": "I give them (feminine)",
+              "spanish": "Las doy"
+            },
+            {
+              "english": "I will give it to you tomorrow (I give you it tomorrow)",
+              "spanish": "Yo te lo doy manãna"
+            }
+          ]
+        },
+        {
+          "verb": "da",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "He gives (emphasized)",
+              "spanish": "El da"
+            },
+            {
+              "english": "He is giving me something",
+              "spanish": "El me da algo"
+            },
+            {
+              "english": "Are you giving it to me tomorrow? (You give me it tomorrow?)",
+              "spanish": "Usted me lo da manãna?"
+            }
+          ]
+        },
+        {
+          "verb": "dan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They give (emphasized)",
+              "spanish": "Ellos dan"
+            },
+            {
+              "english": "They give it to me (They give me it)",
+              "spanish": "Ellos me lo dan"
+            },
+            {
+              "english": "Are you guys give it to us tomorrow? (You guys give us it tomorrow?)",
+              "spanish": "Ustedes nos lo dan manãna?"
+            }
+          ]
+        },
+        {
+          "verb": "das",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You give money",
+              "spanish": "Das dinero"
+            }
+          ]
+        },
+        {
+          "verb": "damos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We give something",
+              "spanish": "Nosotros damos algo"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
