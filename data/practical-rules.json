@@ -323,6 +323,95 @@
       ]
     },
     {
+      "rule": "Words ending in 'ma' are masculine",
+      "examples": [
+        {
+          "english": "The problem",
+          "spanish": "El problema"
+        },
+        {
+          "english": "Have you understood the problem?",
+          "spanish": "Usted ha entendido el problema?"
+        }
+      ]
+    },
+    {
+      "rule": "Words ending in 'ma' are derived from Greek. In Greek, these words are neutral.",
+      "examples": [
+        {
+          "english": "The system",
+          "spanish": "El systema"
+        },
+        {
+          "english": "Have you understood the system?",
+          "spanish": "Has entendido el systema?"
+        },
+        {
+          "english": "The climate",
+          "spanish": "El clima"
+        }
+      ]
+    },
+    {
+      "rule": "Use 'me' as 'myself' to express 'I got' or 'I get'",
+      "examples": [
+        {
+          "english": "I get ready (I prepare myself)",
+          "spanish": "Me preparo"
+        },
+        {
+          "english": "I got lost / I've got lost (I lost myself)",
+          "spanish": "Me he perdido"
+        },
+        {
+          "english": "I have lost myself (being emphatic)",
+          "spanish": "Yo me he perdido"
+        }
+      ]
+    },
+    {
+      "rule": "Use 'te' as 'yourself' to express 'you got' or 'you get'",
+      "examples": [
+        {
+          "english": "You have got lost (You have lost yourself)",
+          "spanish": "Te has perdido"
+        },
+        {
+          "english": "You have got lost (being emphatic)",
+          "spanish": "Tú te has perdido"
+        },
+        {
+          "english": "You have lost (informal)",
+          "spanish": "Has perdido"
+        },
+        {
+          "english": "You have lost (being emphatic)",
+          "spanish": "Tú has perdido"
+        }
+      ]
+    },
+    {
+      "rule": "Use 'nos' as 'ourselves' to express 'we got' or 'we get'",
+      "examples": [
+        {
+          "english": "We have got lost (We have lost ourselves)",
+          "spanish": "Nos hemos perdido"
+        },
+        {
+          "english": "We have got lost (being emphatic)",
+          "spanish": "Nosotros nos hemos perdido"
+        },
+        {
+          "english": "We have lost",
+          "spanish": "Hemos perdido"
+        },
+        {
+          "english": "We have lost (being emphatic)",
+          "spanish": "Nosotros hemos perdido"
+        }
+      ]
+    },
+    {
       "rule": "Words ending in '-ity' converts to '-idad'. These words are feminine",
       "examples": [
         {

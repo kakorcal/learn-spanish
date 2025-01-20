@@ -1959,6 +1959,74 @@
           ]
         }
       ]
+    },
+    {
+      "type": "irregular",
+      "verb": "sentir",
+      "definition": "To feel / perceive (in sense of smell)",
+      "hint": "Sensation",
+      "examples": [
+        {
+          "english": "You have to feel it",
+          "spanish": "Lo tengas qué sentir"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "siento",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I feel good",
+              "spanish": "Siento bien"
+            },
+            {
+              "english": "I'm sorry",
+              "spanish": "Lo siento"
+            }
+          ]
+        },
+        {
+          "verb": "siente",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "He doesn't feel good",
+              "spanish": "No lo siente bien"
+            }
+          ]
+        },
+        {
+          "verb": "sienten",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They feel cold",
+              "spanish": "Sienten fría"
+            }
+          ]
+        },
+        {
+          "verb": "sientes",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "Do you feel hot?",
+              "spanish": "Sientes caliente?"
+            }
+          ]
+        },
+        {
+          "verb": "sientemos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We feel tired right now",
+              "spanish": "Nosotros sientemos cansado ahora"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

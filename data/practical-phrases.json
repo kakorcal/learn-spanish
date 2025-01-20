@@ -1,0 +1,24 @@
+{
+  "phrases": [
+    {
+      "english": "Could you repeat that?",
+      "spanish": "¿Puedes repetirlo?"
+    },
+    {
+      "english": "The check, please",
+      "spanish": "La cuenta, por favor"
+    },
+    {
+      "english": "How much is this?",
+      "spanish": "¿Cuánto cuesta esto?"
+    },
+    {
+      "english": "What time do you open/close?",
+      "spanish": "¿A qué hora abren/cierran?"
+    },
+    {
+      "english": "How do you say this word in Spanish?",
+      "spanish": "Comó deces esta palabra en Espanol?"
+    }
+  ]
+}
