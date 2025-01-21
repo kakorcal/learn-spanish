@@ -2123,6 +2123,170 @@
           ]
         }
       ]
+    },
+    {
+      "type": "regular",
+      "verb": "cocinar",
+      "definition": "To cook",
+      "hint": "Concoction / Cuisine",
+      "examples": [
+        {
+          "english": "I can cook",
+          "spanish": "Puedo cocinar"
+        },
+        {
+          "english": "Can you cook?",
+          "spanish": "Puedes cocinar?"
+        },
+        {
+          "english": "Can you cook something for me? (Can you cook me something?)",
+          "spanish": "Me puedes cocinar algo?"
+        },
+        {
+          "english": "I have cooked",
+          "spanish": "He cocinado"
+        },
+        {
+          "english": "I have cooked at 6 o'clock",
+          "spanish": "He cocinado a las seis"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "cocino",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I cook something",
+              "spanish": "Cocino algo"
+            }
+          ]
+        },
+        {
+          "verb": "cocina",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "You cook chicken?",
+              "spanish": "Cocina pollo?"
+            }
+          ]
+        },
+        {
+          "verb": "cocinan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They cook tomorrow",
+              "spanish": "Cocinan manãna"
+            }
+          ]
+        },
+        {
+          "verb": "cocinas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You cook fast",
+              "spanish": "Cocinas rápido"
+            }
+          ]
+        },
+        {
+          "verb": "cocinamos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We cook too",
+              "spanish": "Cocinamos tambien"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "quedar",
+      "definition": "To remain in place / To be left over",
+      "hint": "To quiet",
+      "examples": [
+        {
+          "english": "I want to stay",
+          "spanish": "Quiero quedar"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "quedo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I stay (I remain myself)",
+              "spanish": "Me quedo"
+            },
+            {
+              "english": "I'm staying here until 10 o'clock (I remain myself here until 10)",
+              "spanish": "Me quedo aquí hasta las diez"
+            }
+          ]
+        },
+        {
+          "verb": "queda",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "He stays until next week",
+              "spanish": "El lo queda hasta la semana qué viene"
+            }
+          ]
+        },
+        {
+          "verb": "quedan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They are staying here",
+              "spanish": "Ellos los quedan aquí"
+            }
+          ]
+        },
+        {
+          "verb": "quedas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You stay (You remain yourself)",
+              "spanish": "Te quedas"
+            },
+            {
+              "english": "You are staying here",
+              "spanish": "Te quedas aquí"
+            },
+            {
+              "english": "Are you staying here?",
+              "spanish": "Te quedas aquí?"
+            },
+            {
+              "english": "Are you staying here? (emphatic)",
+              "spanish": "Tú te quedas aquí?"
+            }
+          ]
+        },
+        {
+          "verb": "quedamos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We are staying until 9 o'clock",
+              "spanish": "Nos quedamos hasta las nueve"
+            },
+            {
+              "english": "We are staying (emphasized)",
+              "spanish": "Nosotros nos quedamos"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -142,6 +142,13 @@
     { "english": "November", "spanish": "Noviembre" },
     { "english": "December", "spanish": "Diciembre" }
   ],
+  "time": [
+    { "english": "at 6 o'clock", "spanish": "a las seis (September)" },
+    { "english": "6 o'clock", "spanish": "las seis (September)" },
+    { "english": "at 8 o'clock", "spanish": "a las ocho (October)" },
+    { "english": "at 9 o'clock", "spanish": "a las nueve (November)" },
+    { "english": "at 10 o'clock", "spanish": "a las diez (December)" }
+  ],
   "weather": [
     { "english": "Rain", "spanish": "Lluvia" },
     { "english": "Snow", "spanish": "Nieve" },

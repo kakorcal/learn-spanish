@@ -89,11 +89,11 @@
     "object-group": [
       { "english": "him, you (formal), it", "spanish": "lo/le" },
       { "english": "her", "spanish": "la/le" },
-      { "english": "you/yourself (informal)", "spanish": "te" },
-      { "english": "us/ourselves", "spanish": "nos" },
+      { "english": "you/to you/yourself (informal)", "spanish": "te" },
+      { "english": "us/to us/ourselves", "spanish": "nos" },
       { "english": "them (masculine/mixed)", "spanish": "los/les" },
       { "english": "them (feminine)", "spanish": "las/les" },
-      { "english": "me/myself", "spanish": "me" }
+      { "english": "me/to me/myself", "spanish": "me" }
     ],
     "subject-group": [
       { "english": "he", "spanish": "él" },

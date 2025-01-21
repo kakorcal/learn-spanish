@@ -586,6 +586,43 @@
           "spanish": "Ustedes nos lo dan manãna?"
         }
       ]
+    },
+    {
+      "rule": "Prepositions are usually built into the words such as me, te, and nos so they could be removed from the sentence",
+      "examples": [
+        {
+          "english": "He is speaking to me",
+          "spanish": "Me habla"
+        },
+        {
+          "english": "They speak to me",
+          "spanish": "Me hablan"
+        },
+        {
+          "english": "They speak to me about it (They speak me it)",
+          "spanish": "Me lo hablan"
+        },
+        {
+          "english": "He buys it for me (He buys me it)",
+          "spanish": "Me lo compra"
+        },
+        {
+          "english": "Buy it from me",
+          "spanish": "Me lo compra"
+        },
+        {
+          "english": "I buy it for you (I buy you it)",
+          "spanish": "Te lo compro"
+        },
+        {
+          "english": "Shall I buy it for you? (I buy you it?)",
+          "spanish": "Te lo compro?"
+        },
+        {
+          "english": "Do you want to do it for me? (You want to do me it?)",
+          "spanish": "Me lo quieres hacer?"
+        }
+      ]
     }
   ]
 }
