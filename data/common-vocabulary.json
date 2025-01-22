@@ -203,5 +203,8 @@
     { "english": "mas tarde", "spanish": "later" },
     { "english": "tomorrow", "spanish": "manána" },
     { "english": "next week (the week that comes)", "spanish": "La semana qué viene" }
+  ],
+  "adjectives": [
+    { "english": "big", "spanish": "grande" }
   ]
 }

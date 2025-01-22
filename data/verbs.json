@@ -95,6 +95,10 @@
             {
               "english": "I have a dog",
               "spanish": "Tengo un perro"
+            },
+            {
+              "english": "I have to go now but I would like to come next week",
+              "spanish": "Tengo qué ir ahora pero gusto venir la semana qué viene"
             }
           ]
         },
@@ -367,6 +371,14 @@
             {
               "english": "You see clear",
               "spanish": "Ves claro"
+            },
+            {
+              "english": "Can you see the big car? (Do you see the car big?)",
+              "spanish": "Ves el carro grande?"
+            },
+            {
+              "english": "Can you see the big car? (Verbose)",
+              "spanish": "Puedes ver el carro grande"
             }
           ]
         },

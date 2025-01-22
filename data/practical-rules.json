@@ -257,6 +257,96 @@
       ]
     },
     {
+      "rule": "Adjectives are words that describe a word. Adjectives come after the noun they describe",
+      "examples": [
+        {
+          "english": "A digital camera",
+          "spanish": "Una camera digital"
+        },
+        {
+          "english": "I want to buy a digital camera",
+          "spanish": "Quiero comprar una camera digital"
+        },
+        {
+          "english": "The big car",
+          "spanish": "El carro grande"
+        }
+      ]
+    },
+    {
+      "rule": "Adjectives become plural when a noun is plural",
+      "examples": [
+        {
+          "english": "The big houses",
+          "spanish": "Las casas grandes"
+        },
+        {
+          "english": "The big cars",
+          "spanish": "Los autos grandes"
+        },
+        {
+          "english": "The big cars",
+          "spanish": "Los carros grandes"
+        }
+      ]
+    },
+    {
+      "rule": "'The' (masculine) is 'El'. 'The' (feminine) is 'La'",
+      "examples": [
+        {
+          "english": "The camera",
+          "spanish": "La camera"
+        },
+        {
+          "english": "The car",
+          "spanish": "El coche (other ways to say car are: carro, auto, and machina)"
+        }
+      ]
+    },
+    {
+      "rule": "'The' (plural masculine) is 'Los'. 'The' (plural feminine) is 'Las'",
+      "examples": [
+        {
+          "english": "The cars",
+          "spanish": "Los carros"
+        },
+        {
+          "english": "The cars",
+          "spanish": "Las machinas"
+        }
+      ]
+    },
+    {
+      "rule": "'A' (masculine) is 'un'. 'A' (feminine) is 'una'",
+      "examples": [
+        {
+          "english": "A camera",
+          "spanish": "Una camera"
+        },
+        {
+          "english": "A car",
+          "spanish": "Un coche (other ways to say car are: carro, auto, and machina)"
+        }
+      ]
+    },
+    {
+      "rule": "Nouns have genders. The object itself does not have gender",
+      "examples": [
+        {
+          "english": "A/The car",
+          "spanish": "Un/El coche"
+        },
+        {
+          "english": "A/The car",
+          "spanish": "Una/La machina"
+        },
+        {
+          "english": "A/The car",
+          "spanish": "Un/El carro"
+        }
+      ]
+    },
+    {
       "rule": "Functional object words (pronouns) should come before conjugated verbs",
       "examples": [
         {
@@ -621,6 +711,35 @@
         {
           "english": "Do you want to do it for me? (You want to do me it?)",
           "spanish": "Me lo quieres hacer?"
+        }
+      ]
+    },
+    {
+      "rule": "Use pronoun verb + 'to' verb sentence structure to your advantage: voy, doy, puedo, vengo, quiero (querer), quedo (quedar), hago (hacer), he (haber), tengo qué, debo, gusto, etc",
+      "examples": [
+        {
+          "english": "I have to go",
+          "spanish": "Tengo qué ir"
+        },
+        {
+          "english": "I can't find it (as opposed to I don't find it)",
+          "spanish": "No lo puedo encontrar (No lo encuentro)"
+        },
+        {
+          "english": "I am staying in the red car (I remain myself in the car red)",
+          "spanish": "Me quedo en el auto rojo"
+        },
+        {
+          "english": "I have stayed in the red car (I remained myself in the car red)",
+          "spanish": "Me he quedado en el auto rojo"
+        },
+        {
+          "english": "I have bought a red car (I bought a car red)",
+          "spanish": "He comprado un auto rojo"
+        },
+        {
+          "english": "I have bought myself a red car (I bought myself a car red)",
+          "spanish": "Me he comprado un auto rojo"
         }
       ]
     }
