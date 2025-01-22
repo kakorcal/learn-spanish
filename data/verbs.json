@@ -134,7 +134,7 @@
       "type": "irregular",
       "verb": "pensar",
       "definition": "To think / To plan / To imagine",
-      "hint": "Similar to ponder / pencil",
+      "hint": "Similar to ponder / pencil / pensive",
       "examples": [
         {
           "english": "I try to think ahead",
@@ -187,6 +187,10 @@
             {
               "english": "What do you think to do? (What do you plan on doing?)",
               "spanish": "Qué piensas hacer?"
+            },
+            {
+              "english": "Do you plan on staying here tonight? (Do you think to remain yourself here this night?)",
+              "spanish": "Te piensas quedar aquí esta noche?"
             }
           ]
         },
@@ -995,6 +999,10 @@
             {
               "english": "I can eat chicken everyday",
               "spanish": "Puedo comer pollo todos las dias"
+            },
+            {
+              "english": "I can't stay here tonight (I can not remain myself here this night)",
+              "spanish": "No me puedo quedar aquí esta noche"
             }
           ]
         },
@@ -1029,6 +1037,20 @@
             {
               "english": "Can't you come?",
               "spanish": "No puedes venir?"
+            }
+          ]
+        },
+        {
+          "verb": "podemos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We can stay",
+              "spanish": "Nos podemos quedar"
+            },
+            {
+              "english": "We can't stay tonight",
+              "spanish": "No nos podemos quedar esta noche"
             }
           ]
         }
@@ -2213,6 +2235,30 @@
         {
           "english": "I want to stay",
           "spanish": "Quiero quedar"
+        },
+        {
+          "english": "Haven't you stayed?",
+          "spanish": "Tú no te has quedado?"
+        },
+        {
+          "english": "We have stayed",
+          "spanish": "Nos hemos quedado"
+        },
+        {
+          "english": "I have to stay",
+          "spanish": "Me tengo qué quedar"
+        },
+        {
+          "english": "We must stay",
+          "spanish": "Nos debemos quedar"
+        },
+        {
+          "english": "I am going to stay until 7 o'clock",
+          "spanish": "Me voy a quedar hasta las siete"
+        },
+        {
+          "english": "I am going to stay until 7 o'clock",
+          "spanish": "Voy a quedar me hasta las siete"
         }
       ],
       "subjects": [
@@ -2283,6 +2329,74 @@
             {
               "english": "We are staying (emphasized)",
               "spanish": "Nosotros nos quedamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "llamar",
+      "definition": "To call / To telephone",
+      "hint": "To summon",
+      "examples": [
+        {
+          "english": "I want to stay",
+          "spanish": "Quiero quedar"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "llamo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I call you",
+              "spanish": "Te llamo"
+            },
+            {
+              "english": "I call myself 'Your name'",
+              "spanish": "Me llamo 'Your name'"
+            }
+          ]
+        },
+        {
+          "verb": "llama",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "You call her tonight",
+              "spanish": "La llama esta noche"
+            }
+          ]
+        },
+        {
+          "verb": "llaman",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They call the restaurant",
+              "spanish": "llaman el restaurante"
+            }
+          ]
+        },
+        {
+          "verb": "llamas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "How do you call yourself?",
+              "spanish": "Comó te llamas?"
+            }
+          ]
+        },
+        {
+          "verb": "llamamos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We call you",
+              "spanish": "Te llamamos"
             }
           ]
         }

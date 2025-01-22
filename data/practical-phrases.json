@@ -1,6 +1,14 @@
 {
   "phrases": [
     {
+      "english": "What is your name (How do you say your name?) (formal)?",
+      "spanish": "Cómo se llama (usted)?"
+    },
+    {
+      "english": "What is your name (informal)?",
+      "spanish": "Comó te llamas?"
+    },
+    {
       "english": "Could you repeat that?",
       "spanish": "¿Puedes repetirlo?"
     },
@@ -13,16 +21,36 @@
       "spanish": "¿Cuánto cuesta esto?"
     },
     {
+      "english": "How much is this?",
+      "spanish": "¿Cuánto cuesta esto?"
+    },
+    {
+      "english": "How much is it?",
+      "spanish": "¿Cuánto cuesta?"
+    },
+    {
       "english": "What time do you open/close?",
       "spanish": "¿A qué hora abren/cierran?"
     },
     {
-      "english": "How do you say this word in Spanish?",
-      "spanish": "Comó deces esta palabra en Espanol?"
+      "english": "How do you say this (in Spanish)?",
+      "spanish": "Comó se dice esto (en Espanõl)?"
     },
     {
       "english": "Come here",
       "spanish": "Ven aquí"
+    },
+    {
+      "english": "I know already",
+      "spanish": "Yo sé ya"
+    },
+    {
+      "english": "What is that?",
+      "spanish": "¿Qué es eso?"
+    },
+    {
+      "english": "What is this?",
+      "spanish": "¿Qué es esto?"
     }
   ]
 }
