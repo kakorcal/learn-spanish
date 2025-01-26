@@ -270,6 +270,10 @@
         {
           "english": "The big car",
           "spanish": "El carro grande"
+        },
+        {
+          "english": "The car is expensive",
+          "spanish": "El carro es caro"
         }
       ]
     },
@@ -287,6 +291,57 @@
         {
           "english": "The big cars",
           "spanish": "Los carros grandes"
+        }
+      ]
+    },
+    {
+      "rule": "Nouns can change genders but adjectives don't unless it ends in 'o'",
+      "examples": [
+        {
+          "english": "He is a teacher",
+          "spanish": "Es profesor"
+        },
+        {
+          "english": "She is a teacher",
+          "spanish": "Es profesora"
+        },
+        {
+          "english": "They (females) are teachers",
+          "spanish": "Son profesoras"
+        },
+        {
+          "english": "The car is expensive",
+          "spanish": "El carro es 'caro'"
+        },
+        {
+          "english": "The car is expensive",
+          "spanish": "La machina es 'cara'"
+        }
+      ]
+    },
+    {
+      "rule": "Add 'es' to a (masculine/mixed) consonant word to get its plural version",
+      "examples": [
+        {
+          "english": "They are professors",
+          "spanish": "Son profesores"
+        },
+        {
+          "english": "They are doctors",
+          "spanish": "Son doctores"
+        }
+      ]
+    },
+    {
+      "rule": "Add 's' to a (feminine) consonant word to get its plural version",
+      "examples": [
+        {
+          "english": "They are professors",
+          "spanish": "Son profesoras"
+        },
+        {
+          "english": "They are doctors",
+          "spanish": "Son doctoras"
         }
       ]
     },
@@ -430,7 +485,7 @@
       ]
     },
     {
-      "rule": "Words ending in 'ma' are masculine",
+      "rule": "Words ending in 'ma' are masculine (which is an exception)",
       "examples": [
         {
           "english": "The problem",
@@ -515,6 +570,80 @@
         {
           "english": "We have lost (being emphatic)",
           "spanish": "Nosotros hemos perdido"
+        }
+      ]
+    },
+    {
+      "rule": "English words ending in -ive convert to -ivo for masculine versions. -iva for feminine versions.",
+      "examples": [
+        {
+          "english": "It is addictive",
+          "spanish": "Es addictivo"
+        },
+        {
+          "english": "He is positive",
+          "spanish": "Es positivo"
+        },
+        {
+          "english": "She is positive",
+          "spanish": "Es positiva"
+        },
+        {
+          "english": "They are positive",
+          "spanish": "Son positivos"
+        },
+        {
+          "english": "They are intuitive",
+          "spanish": "Son intuitivos"
+        },
+        {
+          "english": "They (females) are intuitive",
+          "spanish": "Son intuitivas"
+        },
+        {
+          "english": "She is very attractive",
+          "spanish": "Es muy attractiva"
+        },
+        {
+          "english": "She is very attractive",
+          "spanish": "Ella es muy attractiva"
+        },
+        {
+          "english": "She is very creative but she is aggressive",
+          "spanish": "Ella es muy creativa pero es agresiva"
+        },
+        {
+          "english": "They (masculine) are aggressive",
+          "spanish": "Son agresivos"
+        },
+        {
+          "english": "They (masculine) are aggressive",
+          "spanish": "Ellos son agresivos"
+        },
+        {
+          "english": "He is very negative",
+          "spanish": "El es muy negativo"
+        },
+        {
+          "english": "It's intensive",
+          "spanish": "Es intensivo"
+        },
+        {
+          "english": "They (females) are natives",
+          "spanish": "Son nativas"
+        }
+      ]
+    },
+    {
+      "rule": "There are only double r's and n's in spanish. The rest of the English words can omit duplicates",
+      "examples": [
+        {
+          "english": "Aggressive",
+          "spanish": "Agresivo"
+        },
+        {
+          "english": "Connotation",
+          "spanish": "Connotacion"
         }
       ]
     },
@@ -715,7 +844,7 @@
       ]
     },
     {
-      "rule": "Use pronoun verb + 'to' verb sentence structure to your advantage: voy, doy, puedo, vengo, quiero (querer), quedo (quedar), hago (hacer), he (haber), tengo qué, debo, gusto, etc",
+      "rule": "Use pronoun verb + 'to' verb sentence structure to your advantage: voy (ir), doy (dar), puedo (poder), vengo (venir), quiero (querer), quedo (quedar), hago (hacer), he (haber), tengo (tener) qué, debo (deber), gusto (gustar), etc",
       "examples": [
         {
           "english": "I have to go",
