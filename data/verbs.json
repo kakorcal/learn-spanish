@@ -2413,6 +2413,186 @@
           ]
         }
       ]
+    },
+    {
+      "type": "irregular",
+      "verb": "ser",
+      "definition": "To be",
+      "hint": "Use for describing characteristics",
+      "examples": [
+        {
+          "english": "A being",
+          "spanish": "Un ser"
+        },
+        {
+          "english": "A human being",
+          "spanish": "Un ser humano (humanity -> humanidad)"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "soy",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I am Japanese",
+              "spanish": "Soy Japonés"
+            }
+          ]
+        },
+        {
+          "verb": "es",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "She is Japanese",
+              "spanish": "Ella es Japonés"
+            }
+          ]
+        },
+        {
+          "verb": "son",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They are Japanese",
+              "spanish": "Son Japonés"
+            }
+          ]
+        },
+        {
+          "verb": "eres",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You are Japanese",
+              "spanish": "Eres Japonés"
+            }
+          ]
+        },
+        {
+          "verb": "somos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We are Japanese",
+              "spanish": "Somos Japonés"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "estar",
+      "definition": "To be",
+      "hint": "Use for describing states",
+      "examples": [
+        {
+          "english": "I want to be here",
+          "spanish": "Quiero estar aquí"
+        },
+        {
+          "english": "I am going to be here later",
+          "spanish": "Voy a estar aquí más tarde"
+        },
+        {
+          "english": "Where are you going to be?",
+          "spanish": "Dónde vas a estar?"
+        },
+        {
+          "english": "Where do you guys have to be later?",
+          "spanish": "Dónde tienen qué estar más tarde?"
+        },
+        {
+          "english": "He must be here by now",
+          "spanish": "Debes estar aquí"
+        },
+        {
+          "english": "He must be tired",
+          "spanish": "Debes estar cansado"
+        },
+        {
+          "english": "They must be tired",
+          "spanish": "Deben estar cansados"
+        },
+        {
+          "english": "We are not going to stay because we are very tired",
+          "spanish": "No nos vamos a quedar porqué estamos muy cansados"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "estoy",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I am tired",
+              "spanish": "Estoy cansado"
+            },
+            {
+              "english": "I am tired",
+              "spanish": "Estoy cansada (female)"
+            },
+            {
+              "english": "I am here",
+              "spanish": "Estoy aquí"
+            }
+          ]
+        },
+        {
+          "verb": "esta",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "How are you?",
+              "spanish": "Cómo esta?"
+            }
+          ]
+        },
+        {
+          "verb": "estan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They are always tired",
+              "spanish": "Estan siempre cansado"
+            },
+            {
+              "english": "They are always tired",
+              "spanish": "Estan cansado siempre"
+            },
+            {
+              "english": "They are always tired",
+              "spanish": "Siempre estan cansado"
+            }
+          ]
+        },
+        {
+          "verb": "estas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "How are you?",
+              "spanish": "Cómo estas?"
+            }
+          ]
+        },
+        {
+          "verb": "estamos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We are dead (as in very tired)",
+              "spanish": "Estamos muerto"
+            },
+            {
+              "english": "I don't know where we are",
+              "spanish": "No sé dónde estamos"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
