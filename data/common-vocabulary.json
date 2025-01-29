@@ -24,6 +24,9 @@
     { "english": "Cousin (male)", "spanish": "Primo" },
     { "english": "Cousin (female)", "spanish": "Prima" }
   ],
+  "relationship": [
+    { "english": "Married (Housed)", "spanish": "Casado" }
+  ],
   "emotions": [
     { "english": "Happy", "spanish": "Feliz" },
     { "english": "Sad", "spanish": "Triste" },
@@ -32,7 +35,9 @@
     { "english": "Excited", "spanish": "Emocionado" },
     { "english": "Scared", "spanish": "Asustado" },
     { "english": "Nervous", "spanish": "Nervioso" },
-    { "english": "Calm", "spanish": "Calmado" }
+    { "english": "Calm", "spanish": "Calmado" },
+    { "english": "Bored", "spanish": "Aburrido" },
+    { "english": "Worried", "spanish": "Preocupado" }
   ],
   "colors": [
     { "english": "Red", "spanish": "Rojo" },
@@ -205,6 +210,7 @@
     { "english": "next week (the week that comes)", "spanish": "La semana qué viene" }
   ],
   "adjectives": [
-    { "english": "big", "spanish": "grande" }
+    { "english": "big", "spanish": "grande" },
+    { "english": "busy", "spanish": "ocupado" }
   ]
 }

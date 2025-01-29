@@ -911,6 +911,106 @@
           "spanish": "Ustedes están cansados"
         }
       ]
+    },
+    {
+      "rule": "Words can be both stateful (estar) and/or a characteristic (ser)",
+      "examples": [
+        {
+          "english": "It is boring (characteristic)",
+          "spanish": "Es aburrido"
+        },
+        {
+          "english": "He is bored (state)",
+          "spanish": "Esta aburrido"
+        },
+        {
+          "english": "She is boring (characteristic)",
+          "spanish": "Esta aburrida"
+        },
+        {
+          "english": "They are bored (state)",
+          "spanish": "Estan aburridos"
+        },
+        {
+          "english": "They are boring (characteristic)",
+          "spanish": "Son aburridos"
+        }
+      ]
+    },
+    {
+      "rule": "De (from/of) comes from 'deliver' -> 'de liberar' -> 'liberation' -> 'set free' -> 'baby being born'",
+      "examples": [
+        {
+          "english": "Where is he from? (From where is he?) (characteristic)",
+          "spanish": "De dónde es?"
+        },
+        {
+          "english": "Where is he from? (From where is he?) (characteristic/informal)",
+          "spanish": "De dónde eres?"
+        },
+        {
+          "english": "Where are they from? (From where are he?) (characteristic)",
+          "spanish": "De dónde son?"
+        },
+        {
+          "english": "Where are they? (state)",
+          "spanish": "Dónde están?"
+        },
+        {
+          "english": "I am free (from work) (state)",
+          "spanish": "Estoy libre"
+        },
+        {
+          "english": "I am a free person (I am a person free) (characteristic)",
+          "spanish": "Soy una persona libre"
+        }
+      ]
+    },
+    {
+      "rule": "v words in English are usually b in Spanish",
+      "examples": [
+        {
+          "english": "Savvy",
+          "spanish": "Saber"
+        }
+      ]
+    },
+    {
+      "rule": "Since there are disagreements on which words are 'ser' or 'estar', use 'Soy una persona (adjective)' to confirm a characteristic sentence",
+      "examples": [
+        {
+          "english": "I am a free person -> I am a person free",
+          "spanish": "Soy libre -> Soy una persona libre"
+        },
+        {
+          "english": "I am a married person",
+          "spanish": "Soy una persona casado (or casada for feminine)"
+        },
+        {
+          "english": "I am busy (state)",
+          "spanish": "Estoy ocupado"
+        },
+        {
+          "english": "I am a busy person (characteristic)",
+          "spanish": "Soy una persona ocupado"
+        },
+        {
+          "english": "We are busy (state)",
+          "spanish": "Estamos ocupados"
+        },
+        {
+          "english": "We are busy people (characteristic)",
+          "spanish": "Somos personas ocupados"
+        },
+        {
+          "english": "I am worried",
+          "spanish": "Estoy ocupado"
+        },
+        {
+          "english": "He is a worried person (characteristic)",
+          "spanish": "Es una persona preocupado"
+        }
+      ]
     }
   ]
 }
