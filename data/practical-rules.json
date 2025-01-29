@@ -274,6 +274,10 @@
         {
           "english": "The car is expensive",
           "spanish": "El carro es caro"
+        },
+        {
+          "english": "A human (adjective) being. The human (noun)",
+          "spanish": "Un ser humano (adjective). El humano (noun)"
         }
       ]
     },
@@ -869,6 +873,42 @@
         {
           "english": "I have bought myself a red car (I bought myself a car red)",
           "spanish": "Me he comprado un auto rojo"
+        }
+      ]
+    },
+    {
+      "rule": "English words starting with 's' + consonant will usually have an 'e' in front of the Spanish version",
+      "examples": [
+        {
+          "english": "spanish, spain, student, school, special, strict, spectacular, state",
+          "spanish": "espanõl, españa, estudiante, escuela, especial, estricto, espectacular, estar"
+        }
+      ]
+    },
+    {
+      "rule": "Voy, doy, estoy and soy are the only verbs that end with a 'oy'",
+      "examples": [
+        {
+          "english": "I am tired",
+          "spanish": "Estoy cansado"
+        }
+      ]
+    },
+    {
+      "rule": "Ellas/Ellos can be derived by pluralizing Ella",
+      "examples": [
+        {
+          "english": "They are here",
+          "spanish": "Ellas estan aquí"
+        }
+      ]
+    },
+    {
+      "rule": "Usted is formal but ustedes is not. It is just a way to say 'you guys'",
+      "examples": [
+        {
+          "english": "You guys are tired",
+          "spanish": "Ustedes están cansados"
         }
       ]
     }

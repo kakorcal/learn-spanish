@@ -2437,6 +2437,10 @@
             {
               "english": "I am Japanese",
               "spanish": "Soy Japonés"
+            },
+            {
+              "english": "I am a student",
+              "spanish": "Soy estudiante"
             }
           ]
         },
@@ -2447,6 +2451,14 @@
             {
               "english": "She is Japanese",
               "spanish": "Ella es Japonés"
+            },
+            {
+              "english": "It is possible",
+              "spanish": "Es posible"
+            },
+            {
+              "english": "What is he like? (Asking about character)",
+              "spanish": "Cómo es?"
             }
           ]
         },
