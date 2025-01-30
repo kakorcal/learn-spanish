@@ -1011,6 +1011,27 @@
           "spanish": "Es una persona preocupado"
         }
       ]
+    },
+    {
+      "rule": "Adjectives can have different meanings depending on if it is used with ser or estar",
+      "examples": [
+        {
+          "english": "We are ready (state)",
+          "spanish": "Estamos listos"
+        },
+        {
+          "english": "You are very smart (characteristic)",
+          "spanish": "Eres muy listo"
+        },
+        {
+          "english": "He is good (attractive) (state)",
+          "spanish": "Esta bueno"
+        },
+        {
+          "english": "They are good (people) (characteristic)",
+          "spanish": "Son buenos"
+        }
+      ]
     }
   ]
 }

@@ -29,6 +29,7 @@
   ],
   "emotions": [
     { "english": "Happy", "spanish": "Feliz" },
+    { "english": "Happiness (Felicity)", "spanish": "Felicidad" },
     { "english": "Sad", "spanish": "Triste" },
     { "english": "Angry", "spanish": "Enojado" },
     { "english": "Tired", "spanish": "Cansado" },
@@ -213,6 +214,10 @@
   ],
   "adjectives": [
     { "english": "big", "spanish": "grande" },
-    { "english": "busy", "spanish": "ocupado" }
+    { "english": "busy", "spanish": "ocupado" },
+    { "english": "smart", "spanish": "listo (ser)" },
+    { "english": "ready", "spanish": "listo (estar)" },
+    { "english": "good person / good at something", "spanish": "bueno (ser)" },
+    { "english": "attractive", "spanish": "bueno (ser)" }
   ]
 }

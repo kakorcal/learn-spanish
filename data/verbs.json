@@ -2441,6 +2441,10 @@
             {
               "english": "I am a student",
               "spanish": "Soy estudiante"
+            },
+            {
+              "english": "I am a happy person",
+              "spanish": "Soy una persona féliz"
             }
           ]
         },
@@ -2459,6 +2463,14 @@
             {
               "english": "What is he like? (Asking about character)",
               "spanish": "Cómo es?"
+            },
+            {
+              "english": "It is so boring",
+              "spanish": "Es tan aburrido"
+            },
+            {
+              "english": "I want to know how he is (as a person)",
+              "spanish": "Quiero saber cómo es"
             }
           ]
         },
@@ -2549,6 +2561,14 @@
             {
               "english": "I am here",
               "spanish": "Estoy aquí"
+            },
+            {
+              "english": "I am so bored",
+              "spanish": "Estoy tan aburrido"
+            },
+            {
+              "english": "I am happy",
+              "spanish": "Estoy féliz"
             }
           ]
         },
@@ -2559,6 +2579,10 @@
             {
               "english": "How are you?",
               "spanish": "Cómo esta?"
+            },
+            {
+              "english": "I want to know how he is (how is he doing?)",
+              "spanish": "Quiero saber cómo esta"
             }
           ]
         },

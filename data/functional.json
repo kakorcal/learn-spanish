@@ -175,6 +175,7 @@
     { "english": "however", "spanish": "sin embargo" },
     { "english": "therefore", "spanish": "por lo tanto" },
     { "english": "hence", "spanish": "por ende" },
-    { "english": "thus", "spanish": "así" }
+    { "english": "thus", "spanish": "así" },
+    { "english": "so", "spanish": "tan" }
   ]
 }
