@@ -147,7 +147,8 @@
     { "english": "her", "spanish": "su" },
     { "english": "its", "spanish": "su" },
     { "english": "our", "spanish": "nuestro/a" },
-    { "english": "their", "spanish": "su" }
+    { "english": "their", "spanish": "su" },
+    { "english": "which", "spanish": "cuál" }
   ],
   "quantifiers": [
     { "english": "all", "spanish": "todos" },

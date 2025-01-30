@@ -913,7 +913,7 @@
       ]
     },
     {
-      "rule": "Words can be both stateful (estar) and/or a characteristic (ser)",
+      "rule": "Some adjectives can be both stateful (estar) and a characteristic (ser)",
       "examples": [
         {
           "english": "It is boring (characteristic)",
@@ -976,7 +976,7 @@
       ]
     },
     {
-      "rule": "Since there are disagreements on which words are 'ser' or 'estar', use 'Soy una persona (adjective)' to confirm a characteristic sentence",
+      "rule": "Use 'Soy una persona (adjective)' to confirm a characteristic sentence when you don't know whether an adjective is flexible to assume both ser or estar.",
       "examples": [
         {
           "english": "I am a free person -> I am a person free",

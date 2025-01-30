@@ -37,7 +37,8 @@
     { "english": "Nervous", "spanish": "Nervioso" },
     { "english": "Calm", "spanish": "Calmado" },
     { "english": "Bored", "spanish": "Aburrido" },
-    { "english": "Worried", "spanish": "Preocupado" }
+    { "english": "Worried", "spanish": "Preocupado" },
+    { "english": "Fun", "spanish": "Divertido" }
   ],
   "colors": [
     { "english": "Red", "spanish": "Rojo" },
@@ -207,7 +208,8 @@
     { "english": "tonight (this night)", "spanish": "esta noche" },
     { "english": "mas tarde", "spanish": "later" },
     { "english": "tomorrow", "spanish": "manána" },
-    { "english": "next week (the week that comes)", "spanish": "La semana qué viene" }
+    { "english": "next week (the week that comes)", "spanish": "La semana qué viene" },
+    { "english": "again", "spanish": "de nuevo" }
   ],
   "adjectives": [
     { "english": "big", "spanish": "grande" },
