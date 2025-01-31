@@ -217,6 +217,55 @@
       ]
     },
     {
+      "rule": "Although this is not common, future tense words can be constructed by attaching an accented haber to the end of the verb",
+      "examples": [
+        {
+          "english": "I will eat (in the future). I have eaten",
+          "spanish": "Comeré. He comido"
+        },
+        {
+          "english": "We will eat (in the future)",
+          "spanish": "Comerémos"
+        },
+        {
+          "english": "I will go (in the future)",
+          "spanish": "Iré"
+        },
+        {
+          "english": "They will go (in the future)",
+          "spanish": "Irán"
+        },
+        {
+          "english": "Will you go?",
+          "spanish": "Irás?"
+        },
+        {
+          "english": "I will find it (in the future)",
+          "spanish": "Lo encontraré"
+        },
+        {
+          "english": "He will find them (in the future)",
+          "spanish": "Los encontrará"
+        },
+        {
+          "english": "I will stay (in the future) -> I will remain myself",
+          "spanish": "Me quedaré"
+        },
+        {
+          "english": "I will stay here (in the future) -> I will remain myself here",
+          "spanish": "Me quedaré aquí"
+        },
+        {
+          "english": "I will be tired (in the future)",
+          "spanish": "Estaré cansado"
+        },
+        {
+          "english": "It will be (in the future)",
+          "spanish": "Será"
+        }
+      ]
+    },
+    {
       "rule": "For 'ar' verbs, you can construct future tense '-ing' form by adding 'ando' to 'estar'",
       "examples": [
         {
@@ -1118,6 +1167,19 @@
         {
           "english": "I'm leaving (right now)",
           "spanish": "Estoy saliendo"
+        }
+      ]
+    },
+    {
+      "rule": "When using con + pronoun, use the subject form instead of the object form",
+      "examples": [
+        {
+          "english": "I am having breakfast with them tomorrow -> I have breakfast with 'they' tomorrow",
+          "spanish": "Desayuno con ellos mañana"
+        },
+        {
+          "english": "I am going to have breakfast with them tomorrow -> I go to breakfast with 'they' tomorrow",
+          "spanish": "Voy a desayunar con ellos mañana"
         }
       ]
     }
