@@ -217,6 +217,52 @@
       ]
     },
     {
+      "rule": "For 'ar' verbs, you can construct future tense '-ing' form by adding 'ando' to 'estar'",
+      "examples": [
+        {
+          "english": "I am speaking (now)",
+          "spanish": "Estoy hablando"
+        },
+        {
+          "english": "I am waiting here (right now)",
+          "spanish": "Estoy esperando aquí"
+        },
+        {
+          "english": "I'll wait here",
+          "spanish": "Espero aquí"
+        },
+        {
+          "english": "I'm preparing it (now)",
+          "spanish": "Lo estoy preparando"
+        },
+        {
+          "english": "We are having breakfast (right now)",
+          "spanish": "Estamos desayunando"
+        }
+      ]
+    },
+    {
+      "rule": "For 'ir/er' verbs, you can construct future tense '-ing' form by adding 'iendo' to 'estar'",
+      "examples": [
+        {
+          "english": "I am eating (now)",
+          "spanish": "Estoy comiendo"
+        },
+        {
+          "english": "They are selling it (right now)",
+          "spanish": "Lo estan vendiendo"
+        },
+        {
+          "english": "They are selling it tomorrow",
+          "spanish": "Lo venden mañana"
+        },
+        {
+          "english": "They are opening (now)",
+          "spanish": "Estan abriendo"
+        }
+      ]
+    },
+    {
       "rule": "No tense words have no accent",
       "examples": [
         {
@@ -432,15 +478,15 @@
       "examples": [
         {
           "english": "Are you giving it to me tomorrow? (You give me it tomorrow?)",
-          "spanish": "Usted me lo da manãna?"
+          "spanish": "Usted me lo da mañana?"
         },
         {
           "english": "Are you giving it to me tomorrow? (You give me it tomorrow?)",
-          "spanish": "Me lo da usted manãna?"
+          "spanish": "Me lo da usted mañana?"
         },
         {
           "english": "Are you giving it to me tomorrow? (You give me it tomorrow?)",
-          "spanish": "Me lo da manãna usted?"
+          "spanish": "Me lo da mañana usted?"
         }
       ]
     },
@@ -806,7 +852,7 @@
       "examples": [
         {
           "english": "Are you guys give it to us tomorrow? (You guys give us it tomorrow?)",
-          "spanish": "Ustedes nos lo dan manãna?"
+          "spanish": "Ustedes nos lo dan mañana?"
         }
       ]
     },
@@ -1030,6 +1076,48 @@
         {
           "english": "They are good (people) (characteristic)",
           "spanish": "Son buenos"
+        }
+      ]
+    },
+    {
+      "rule": "Spanish words are either ser or estar based on the concept of the word. If forming a present tense estar sentence with a ser adjective, use the '-ing' form of ser to express 'being'",
+      "examples": [
+        {
+          "english": "Sincerity / Sincere (Sincerity is a characteristic. Therefore, sincere is also a characteristic)",
+          "spanish": "Sinceridad / Sincero"
+        },
+        {
+          "english": "I am being sincere (state + ser adjective)",
+          "spanish": "Estoy siendo sincero"
+        },
+        {
+          "english": "We are being honest",
+          "spanish": "Estamos siendo honestos"
+        }
+      ]
+    },
+    {
+      "rule": "Resist putting '-ing' into Spanish. That is only used for expressing present tense immediate",
+      "examples": [
+        {
+          "english": "I'm buying them -> I buy them",
+          "spanish": "Los compro"
+        },
+        {
+          "english": "I'm buying them tomorrow -> I buy them tomorrow",
+          "spanish": "Los compro mañana"
+        },
+        {
+          "english": "I'm buying them (now)",
+          "spanish": "Los estoy comprando (ahora)"
+        },
+        {
+          "english": "I'm leaving soon -> I leave soon",
+          "spanish": "Salgo pronto"
+        },
+        {
+          "english": "I'm leaving (right now)",
+          "spanish": "Estoy saliendo"
         }
       ]
     }

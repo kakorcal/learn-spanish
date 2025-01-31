@@ -2096,7 +2096,7 @@
             },
             {
               "english": "I will give it to you tomorrow (I give you it tomorrow)",
-              "spanish": "Yo te lo doy manãna"
+              "spanish": "Yo te lo doy mañana"
             }
           ]
         },
@@ -2114,7 +2114,7 @@
             },
             {
               "english": "Are you giving it to me tomorrow? (You give me it tomorrow?)",
-              "spanish": "Usted me lo da manãna?"
+              "spanish": "Usted me lo da mañana?"
             }
           ]
         },
@@ -2132,7 +2132,7 @@
             },
             {
               "english": "Are you guys give it to us tomorrow? (You guys give us it tomorrow?)",
-              "spanish": "Ustedes nos lo dan manãna?"
+              "spanish": "Ustedes nos lo dan mañana?"
             }
           ]
         },
@@ -2212,7 +2212,7 @@
           "examples": [
             {
               "english": "They cook tomorrow",
-              "spanish": "Cocinan manãna"
+              "spanish": "Cocinan mañana"
             }
           ]
         },
@@ -2625,6 +2625,74 @@
             {
               "english": "I don't know where we are",
               "spanish": "No sé dónde estamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "desayumar",
+      "definition": "To have breakfast",
+      "hint": "De means 'un' and 'sayumar' means fast",
+      "examples": [
+        {
+          "english": "We get to have breakfast today",
+          "spanish": "Obtenemos desayunar hoy"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "desayuno",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I have breakfast in the restaurant",
+              "spanish": "Desayuno en la restaurante"
+            },
+            {
+              "english": "The breakfast",
+              "spanish": "El desayuno"
+            }
+          ]
+        },
+        {
+          "verb": "desayuna",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "Do you have breakfast?",
+              "spanish": "Desayuna?"
+            }
+          ]
+        },
+        {
+          "verb": "desayunan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They have breakfast at my house",
+              "spanish": "Desayunan en mi casa"
+            }
+          ]
+        },
+        {
+          "verb": "desayunas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "Do you have breakfast with them (they)?",
+              "spanish": "Desayunas con ellos?"
+            }
+          ]
+        },
+        {
+          "verb": "desayunamos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "I think we have breakfast soon",
+              "spanish": "Pienso desayunamos pronto"
             }
           ]
         }
