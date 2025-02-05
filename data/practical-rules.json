@@ -540,11 +540,121 @@
       ]
     },
     {
-      "rule": "Pronoun object group: lo, la, te, nos, los, las, me",
+      "rule": "Pronoun direct object group: me, te, nos, lo/la, los/las",
       "examples": [
         {
           "english": "I want to see you",
           "spanish": "Te quiero ver"
+        },
+        {
+          "english": "I give it",
+          "spanish": "Lo doy"
+        },
+        {
+          "english": "They have spoken about it",
+          "spanish": "Lo han hablado"
+        },
+        {
+          "english": "He is cooking them",
+          "spanish": "Los cocina"
+        }
+      ]
+    },
+    {
+      "rule": "Pronoun indirect (to -'pronoun') object group: me, te, nos, le, les",
+      "examples": [
+        {
+          "english": "I want to see you",
+          "spanish": "Te quiero ver"
+        },
+        {
+          "english": "I give it to him",
+          "spanish": "Le doy"
+        },
+        {
+          "english": "I give it to them",
+          "spanish": "Les doy"
+        },
+        {
+          "english": "I am giving them something -> I am giving something to them",
+          "spanish": "Les doy algo"
+        },
+        {
+          "english": "I have spoken to him",
+          "spanish": "Le he hablado"
+        },
+        {
+          "english": "We have spoken to him",
+          "spanish": "Le hemos hablado"
+        },
+        {
+          "english": "They have spoken to (him/her)",
+          "spanish": "Le han hablado"
+        },
+        {
+          "english": "He is cooking me something -> He is cooking to me something",
+          "spanish": "Me cocina algo"
+        },
+        {
+          "english": "He is cooking them (feminine) something -> He is cooking to them (feminine) something",
+          "spanish": "Las cocina algo"
+        },
+        {
+          "english": "He is cooking them for us -> He is cooking them to us",
+          "spanish": "Nos los cocina"
+        },
+        {
+          "english": "They speak to them",
+          "spanish": "Les hablan"
+        }
+      ]
+    },
+    {
+      "rule": "Pronoun indirect ('pronoun' -self) object group: me, te, nos, se",
+      "examples": [
+        {
+          "english": "I speak to myself",
+          "spanish": "Me hablo"
+        },
+        {
+          "english": "He speaks to himself",
+          "spanish": "El se habla"
+        },
+        {
+          "english": "He speaks to himself",
+          "spanish": "El se habla"
+        },
+        {
+          "english": "We stay -> We remain ourselves",
+          "spanish": "Nos quedamos"
+        },
+        {
+          "english": "Are you staying? -> Are you remaining yourselve?",
+          "spanish": "Te quedas?"
+        },
+        {
+          "english": "He stays -> He remains himself",
+          "spanish": "El se queda"
+        },
+        {
+          "english": "They stay -> They remain themselves",
+          "spanish": "Se quedan"
+        },
+        {
+          "english": "I want to stay -> I want to remain myself",
+          "spanish": "Me quiero quedar"
+        },
+        {
+          "english": "He wants to stay -> He wants to remain himself",
+          "spanish": "Se quiere quedar"
+        },
+        {
+          "english": "She realizes",
+          "spanish": "Se da cuenta"
+        },
+        {
+          "english": "You guys want to stay -> You guys want to remain yourselves",
+          "spanish": "Se quieren quedar"
         }
       ]
     },
@@ -906,7 +1016,7 @@
       ]
     },
     {
-      "rule": "Prepositions are usually built into the words such as me, te, and nos so they could be removed from the sentence",
+      "rule": "Prepositions are usually built into the words such as me, te, and nos so they could be removed from the sentence. This can result in ambiguity so context needs to be accounted for",
       "examples": [
         {
           "english": "He is speaking to me",
@@ -917,11 +1027,11 @@
           "spanish": "Me hablan"
         },
         {
-          "english": "They speak to me about it (They speak me it)",
+          "english": "They speak to me about it -> They speak me it",
           "spanish": "Me lo hablan"
         },
         {
-          "english": "He buys it for me (He buys me it)",
+          "english": "He buys it for me -> He buys me it",
           "spanish": "Me lo compra"
         },
         {
@@ -929,16 +1039,36 @@
           "spanish": "Me lo compra"
         },
         {
-          "english": "I buy it for you (I buy you it)",
+          "english": "I buy it for you -> I buy you it",
           "spanish": "Te lo compro"
         },
         {
-          "english": "Shall I buy it for you? (I buy you it?)",
+          "english": "Shall I buy it for you? -> I buy you it?",
           "spanish": "Te lo compro?"
         },
         {
-          "english": "Do you want to do it for me? (You want to do me it?)",
+          "english": "Do you want to do it for me? -> You want to do me it?",
           "spanish": "Me lo quieres hacer?"
+        },
+        {
+          "english": "I buy you something -> I buy 'for' you something",
+          "spanish": "Te compro algo"
+        },
+        {
+          "english": "I will buy those",
+          "spanish": "Los compro"
+        },
+        {
+          "english": "I will buy 'for' them",
+          "spanish": "Les compro (instead of 'Compro para ellos')"
+        },
+        {
+          "english": "He buys it for me -> He buys me it",
+          "spanish": "Me lo compro"
+        },
+        {
+          "english": "They buy them for me -> They buy those for me",
+          "spanish": "Me los compran"
         }
       ]
     },
@@ -1171,7 +1301,24 @@
       ]
     },
     {
-      "rule": "When using con + pronoun, use the subject form instead of the object form",
+      "rule": "Prepositions (words that establish relationship with upcoming noun or pronoun): para (for), de (from), con (with), etc",
+      "examples": [
+        {
+          "english": "For her -> For she",
+          "spanish": "Para ella"
+        },
+        {
+          "english": "With them -> For they",
+          "spanish": "Con ellos"
+        },
+        {
+          "english": "From us -> From we",
+          "spanish": "De nosotros"
+        }
+      ]
+    },
+    {
+      "rule": "When a preposition is present, it is connected by a subject group pronoun instead of an object group pronoun",
       "examples": [
         {
           "english": "I am having breakfast with them tomorrow -> I have breakfast with 'they' tomorrow",
@@ -1180,6 +1327,31 @@
         {
           "english": "I am going to have breakfast with them tomorrow -> I go to breakfast with 'they' tomorrow",
           "spanish": "Voy a desayunar con ellos mañana"
+        },
+        {
+          "english": "It is from you guys?",
+          "spanish": "Es de ustedes?"
+        },
+        {
+          "english": "It is for you guys?",
+          "spanish": "Es para ustedes"
+        },
+        {
+          "english": "It is with you guys (state)",
+          "spanish": "Esta con ustedes"
+        }
+      ]
+    },
+    {
+      "rule": "When a preposition is present, if the subject group pronoun is me (yo) or you (usted/tú), they are replaced with 'mi' and 'ti' respectively",
+      "examples": [
+        {
+          "english": "For me",
+          "spanish": "Para mi"
+        },
+        {
+          "english": "From you",
+          "spanish": "De ti"
         }
       ]
     }

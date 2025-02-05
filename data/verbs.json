@@ -389,6 +389,10 @@
             {
               "english": "We see the restaurant",
               "spanish": "Vemos el restaurante"
+            },
+            {
+              "english": "We see each other (again later)",
+              "spanish": "Nos vemos"
             }
           ]
         }
@@ -967,6 +971,14 @@
             {
               "english": "She does homework",
               "spanish": "Ella hace la tarea"
+            },
+            {
+              "english": "He is doing me a favor -> He is doing a favor to me",
+              "spanish": "Me hace un favor"
+            },
+            {
+              "english": "He is doing her a favor -> He is doing a favor to her",
+              "spanish": "Le hace un favor"
             }
           ]
         },
@@ -987,6 +999,64 @@
             {
               "english": "What are you doing?",
               "spanish": "Qué haces?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "decir",
+      "definition": "To tell / To say / To speak",
+      "hint": "Close to the word 'decibel'",
+      "examples": [
+        {
+          "english": "I want to tell him -> I want to tell to him",
+          "spanish": "Le quiero decir"
+        },
+        {
+          "english": "I want to say it",
+          "spanish": "Lo quiero decir"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "digo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I tell the answers",
+              "spanish": "Digo las respuestas"
+            }
+          ]
+        },
+        {
+          "verb": "dice",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "What did it say?",
+              "spanish": "Qué dice?"
+            }
+          ]
+        },
+        {
+          "verb": "dicen",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They say it is not good",
+              "spanish": "Dicen esta no bueno"
+            }
+          ]
+        },
+        {
+          "verb": "dices",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You say to yourself",
+              "spanish": "Te dices"
             }
           ]
         }
@@ -2074,11 +2144,19 @@
         },
         {
           "english": "I want to give",
-          "spanish": "Quireo dar"
+          "spanish": "Quiero dar"
         },
         {
           "english": "I want to give it to you (I want to give you it (informal))",
           "spanish": "Te lo quiero dar"
+        },
+        {
+          "english": "Can you guys give it to me? -> Are you guys able to give it to me?",
+          "spanish": "Me lo pueden dar?"
+        },
+        {
+          "english": "They are going to give us it",
+          "spanish": "Nos lo van dar"
         }
       ],
       "subjects": [
@@ -2133,6 +2211,22 @@
             {
               "english": "Are you guys give it to us tomorrow? (You guys give us it tomorrow?)",
               "spanish": "Ustedes nos lo dan mañana?"
+            },
+            {
+              "english": "Will you guys give it (feminine) to me? -> Are you guys going to give it (feminine) to me?",
+              "spanish": "Me la daran?"
+            },
+            {
+              "english": "They will give you something -> They are going to give you something",
+              "spanish": "Te daran algo?"
+            },
+            {
+              "english": "They will give it to you (informal) -> They are going to give you it (informal)",
+              "spanish": "Te lo daran"
+            },
+            {
+              "english": "They will not give us it",
+              "spanish": "No nos lo daran"
             }
           ]
         },
@@ -2153,6 +2247,70 @@
             {
               "english": "We give something",
               "spanish": "Nosotros damos algo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "dar cuenta",
+      "definition": "To realize / To notice",
+      "hint": "Cuenta means to take account of",
+      "examples": [
+        {
+          "english": "He must realize",
+          "spanish": "Debe se dar cuenta"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "doy cuenta",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I realize -> I myself realize",
+              "spanish": "Me doy cuenta"
+            }
+          ]
+        },
+        {
+          "verb": "da cuenta",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "She realizes the situation",
+              "spanish": "Se da cuenta la situacion"
+            }
+          ]
+        },
+        {
+          "verb": "dan cuenta",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They realize something",
+              "spanish": "Se dan cuenta algo"
+            }
+          ]
+        },
+        {
+          "verb": "das cuenta",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "Do you know what I am saying? -> You realize?",
+              "spanish": "Te das cuenta?"
+            }
+          ]
+        },
+        {
+          "verb": "damos cuenta",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We realize the store",
+              "spanish": "Nos damos cuenta la tienda"
             }
           ]
         }
