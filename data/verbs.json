@@ -2855,6 +2855,138 @@
           ]
         }
       ]
+    },
+    {
+      "type": "regular",
+      "verb": "enamorar",
+      "definition": "To fall in love",
+      "hint": "To enamour oneself",
+      "examples": [
+        {
+          "english": "To fall in love",
+          "spanish": "Se enamorar / Enamorarse"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "enamoro",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I fall in love",
+              "spanish": "Me enamoro"
+            },
+            {
+              "english": "I am falling in love (right now)",
+              "spanish": "Me estoy enamorando"
+            }
+          ]
+        },
+        {
+          "verb": "enamora",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "He falls in love with him -> He falls in love of him",
+              "spanish": "El se enamora de el"
+            }
+          ]
+        },
+        {
+          "verb": "enamoran",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They fall in love with her",
+              "spanish": "Se enamoran de ella"
+            }
+          ]
+        },
+        {
+          "verb": "enamoras",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You fall in love with me",
+              "spanish": "Te enamoras de mi"
+            }
+          ]
+        },
+        {
+          "verb": "enamoramos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We fall in love with each other",
+              "spanish": "Nos enamoramos de nosotros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "soñar",
+      "definition": "To dream",
+      "hint": "Follows similar conjugation patterns as dormir",
+      "examples": [
+        {
+          "english": "I don't like to dream",
+          "spanish": "No me gusta soñar"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "sueño",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I dream of her -> I dream with her",
+              "spanish": "Sueño con ella"
+            }
+          ]
+        },
+        {
+          "verb": "sueña",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "She dreams to be a doctor",
+              "spanish": "Sueña estar una doctora"
+            }
+          ]
+        },
+        {
+          "verb": "sueñan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They dream of them",
+              "spanish": "Sueñan con ellos"
+            }
+          ]
+        },
+        {
+          "verb": "sueñas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You dream of me",
+              "spanish": "Sueñas conmigo"
+            }
+          ]
+        },
+        {
+          "verb": "soñamos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We dream to be healthy (healthily)",
+              "spanish": "Soñamos estar saludablemente"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

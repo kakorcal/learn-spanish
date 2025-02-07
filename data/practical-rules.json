@@ -1354,6 +1354,48 @@
           "spanish": "De ti"
         }
       ]
+    },
+    {
+      "rule": "Spanish may use different prepositions for certain expressions when compared with English",
+      "examples": [
+        {
+          "english": "I fall in love with you -> I fall in love of you",
+          "spanish": "Enamoro de ti"
+        },
+        {
+          "english": "I am thinking about you -> I am thinking in/on you",
+          "spanish": "Pienso en ti / Estoy pensado en ti"
+        },
+        {
+          "english": "I dream of her -> I dream with her",
+          "spanish": "Sueño con ella"
+        }
+      ]
+    },
+    {
+      "rule": "When using con with you or me, 'go' is added to the end of the word (ie. 'contigo' / 'conmigo')",
+      "examples": [
+        {
+          "english": "Do you want to come with me?",
+          "spanish": "Quieres venir conmigo?"
+        },
+        {
+          "english": "You have to come with me",
+          "spanish": "Tienes que venir conmigo"
+        },
+        {
+          "english": "I dream about you -> I dream with you",
+          "spanish": "Sueño contigo"
+        },
+        {
+          "english": "Can you come with me?",
+          "spanish": "Puedes venir conmigo?"
+        },
+        {
+          "english": "I am going with you",
+          "spanish": "Voy contigo"
+        }
+      ]
     }
   ]
 }
