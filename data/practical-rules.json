@@ -312,6 +312,68 @@
       ]
     },
     {
+      "rule": "You can construct future tense 'would/could' form by adding 'ía' to the 'to' form verb. 'I' pronoun uses the same form as 'he', 'she', 'it', 'you' formal pronouns.",
+      "examples": [
+        {
+          "english": "I would dance",
+          "spanish": "Bailaría"
+        },
+        {
+          "english": "He would dance",
+          "spanish": "Bailaría"
+        },
+        {
+          "english": "We would dance",
+          "spanish": "Bailaríamos"
+        },
+        {
+          "english": "They would dance",
+          "spanish": "Bailarían"
+        },
+        {
+          "english": "You (informal) would dance",
+          "spanish": "Bailarías"
+        },
+        {
+          "english": "She wouldn't go",
+          "spanish": "No iría"
+        },
+        {
+          "english": "I would eat but I don't have time",
+          "spanish": "Comería pero no tengo tiempo"
+        },
+        {
+          "english": "It would transform the situation",
+          "spanish": "Transformaría la situacíon"
+        },
+        {
+          "english": "It (gets) transformed",
+          "spanish": "Se transforma"
+        },
+        {
+          "english": "It would (get) transformed -> It would transform itself",
+          "spanish": "Se transformaría"
+        },
+        {
+          "english": "I would imagine that (what) he doesn't want to go",
+          "spanish": "Me imaginaría que no quiere ir"
+        }
+      ]
+    },
+    {
+      "rule": "Using -self form is common but it does not mean it changes the meaning",
+      "examples": [
+        {
+          "english": "I imagine -> I imagine myself",
+          "spanish": "Imagino -> Me imagino"
+        },
+        {
+          "english": "I would imagine -> I would imagine myself",
+          "spanish": "Imaginaría -> Me imaginaría"
+        }
+      ]
+    },
+    {
       "rule": "No tense words have no accent",
       "examples": [
         {

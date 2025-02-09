@@ -2987,6 +2987,114 @@
           ]
         }
       ]
+    },
+    {
+      "type": "regular",
+      "verb": "depender",
+      "definition": "To depend",
+      "hint": "To rely on / To be attached to",
+      "examples": [
+        {
+          "english": "We cannot depend on them",
+          "spanish": "No podemos depender de ellos"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "dependo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I rely on her",
+              "spanish": "Dependo de ella"
+            }
+          ]
+        },
+        {
+          "verb": "depende",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "That depends",
+              "spanish": "Depende de"
+            }
+          ]
+        },
+        {
+          "verb": "dependen",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They depend on your work",
+              "spanish": "Dependen de tú trabaja"
+            }
+          ]
+        },
+        {
+          "verb": "dependes",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You depend on your parents",
+              "spanish": "Dependes de tú padres"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "bailar",
+      "definition": "To dance",
+      "hint": "Related to ballerina",
+      "examples": [
+        {
+          "english": "To dance with you",
+          "spanish": "Bailar contigo"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "bailo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I am going to dance (later)",
+              "spanish": "Bailo más tarde"
+            }
+          ]
+        },
+        {
+          "verb": "baila",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "He will dance",
+              "spanish": "Bailara"
+            }
+          ]
+        },
+        {
+          "verb": "bailan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They dance more",
+              "spanish": "Bailan más"
+            }
+          ]
+        },
+        {
+          "verb": "bailas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You dance with me",
+              "spanish": "Bailas conmigo"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

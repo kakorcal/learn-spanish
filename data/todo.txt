@@ -1,0 +1,8 @@
+{
+  "rule": "Use que as 'that', 'who', or 'which'",
+  "examples": []
+},
+{
+  "rule": "Use qué as 'what' or 'how'",
+  "examples": []
+}
