@@ -3095,6 +3095,68 @@
           ]
         }
       ]
+    },
+    {
+      "type": "regular",
+      "verb": "gustar",
+      "definition": "To like",
+      "hint": "To be pleasing",
+      "examples": [
+        {
+          "english": "We can (may) like or not -> It may be pleasing to us or not",
+          "spanish": "Nos puede gustar o no"
+        },
+        {
+          "english": "I would like to eat now -> It would be pleasing to me to eat now",
+          "spanish": "Me gustaría comer ahora"
+        },
+        {
+          "english": "I would like to see you -> It would be pleasing to me to see you",
+          "spanish": "Me gustaría ver te"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "gusto",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "Nice to meet you -> I am pleased to meet you",
+              "spanish": "Mucho gusto"
+            }
+          ]
+        },
+        {
+          "verb": "gusta",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "I like it -> It is pleasing to me",
+              "spanish": "Me gusta"
+            }
+          ]
+        },
+        {
+          "verb": "gustan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "I like them -> They are pleasing to me",
+              "spanish": "Me gustan"
+            }
+          ]
+        },
+        {
+          "verb": "gustas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "They like you -> You are pleasing to them",
+              "spanish": "Les gustas"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

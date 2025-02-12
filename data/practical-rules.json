@@ -1458,6 +1458,23 @@
           "spanish": "Voy contigo"
         }
       ]
+    },
+    {
+      "rule": "Due to long historic usage, what would be 'podería' is 'podría' which means 'would be able to'",
+      "examples": [
+        {
+          "english": "Could you come to my house? -> Would you be able to come to my house?",
+          "spanish": "Podrías venir a mi casa?"
+        },
+        {
+          "english": "Could you tell me something? -> Would you be able to tell me something?",
+          "spanish": "Me podrías decir algo?"
+        },
+        {
+          "english": "Could you tell me if you want to come?",
+          "spanish": "Me podriás decir si quieres venir?"
+        }
+      ]
     }
   ]
 }
