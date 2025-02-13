@@ -763,13 +763,25 @@
           "spanish": "El problema"
         },
         {
+          "english": "The system",
+          "spanish": "El systema"
+        },
+        {
+          "english": "The paradigm",
+          "spanish": "El paradigma"
+        },
+        {
+          "english": "The scheme (in Spanish, this means outline or diagram)",
+          "spanish": "El eschema"
+        },
+        {
           "english": "Have you understood the problem?",
           "spanish": "Usted ha entendido el problema?"
         }
       ]
     },
     {
-      "rule": "Words ending in 'ma' are derived from Greek. In Greek, these words are neutral.",
+      "rule": "Words ending in 'ma' are usually of Greek origin. In Greek, these words are neutral.",
       "examples": [
         {
           "english": "The system",
@@ -782,6 +794,52 @@
         {
           "english": "The climate",
           "spanish": "El clima"
+        }
+      ]
+    },
+    {
+      "rule": "Shortened words use their expanded version to identify its gender",
+      "examples": [
+        {
+          "english": "The photo -> The photograph",
+          "spanish": "La foto -> La fotographía"
+        },
+        {
+          "english": "The motorcycle",
+          "spanish": "La moto -> La motocycleta"
+        }
+      ]
+    },
+    {
+      "rule": "Mano ('hand') is the only true 'o' word that is not shortened but is considered feminine",
+      "examples": [
+        {
+          "english": "The hand",
+          "spanish": "La mano"
+        },
+        {
+          "english": "These hands",
+          "spanish": "Estas manos"
+        },
+        {
+          "english": "Those hands",
+          "spanish": "Esas manos"
+        },
+        {
+          "english": "Can you give me a hand? -> Are you able to give me a hand?",
+          "spanish": "Puedes darme una mano?"
+        },
+        {
+          "english": "Could you give me a hand? -> Would you be able to give me a hand?",
+          "spanish": "Podrías darme una mano?"
+        },
+        {
+          "english": "You should give me a hand -> You owe to give me a hand",
+          "spanish": "Deberías darme una mano"
+        },
+        {
+          "english": "You guys should give us a hand -> You guys owe to give us a hand",
+          "spanish": "Nos deberían dar una mano"
         }
       ]
     },
@@ -1460,7 +1518,7 @@
       ]
     },
     {
-      "rule": "Due to long historic usage, what would be 'podería' is 'podría' which means 'would be able to'",
+      "rule": "'would be able to' = 'podría'. Due to long historic usage, what would be 'podería' is shortened to 'podría'",
       "examples": [
         {
           "english": "Could you come to my house? -> Would you be able to come to my house?",
@@ -1473,6 +1531,102 @@
         {
           "english": "Could you tell me if you want to come?",
           "spanish": "Me podriás decir si quieres venir?"
+        }
+      ]
+    },
+    {
+      "rule": "'would have' = 'habría'. Due to long historic usage, what would be 'habería' is shortened to 'habría'",
+      "examples": [
+        {
+          "english": "I would have gone",
+          "spanish": "Habría ido"
+        },
+        {
+          "english": "We would have eaten",
+          "spanish": "Habríamos comido"
+        },
+        {
+          "english": "We would have been able to go",
+          "spanish": "Habríamos podido ir"
+        },
+        {
+          "english": "They would have been able to eat",
+          "spanish": "Habrían podido comer"
+        },
+        {
+          "english": "They would have come to eat",
+          "spanish": "Habrían venido a comer"
+        },
+        {
+          "english": "They would have liked it -> It would have pleased them",
+          "spanish": "Les habría gustado"
+        },
+        {
+          "english": "I would have liked it -> It would have pleased me",
+          "spanish": "Me habría gustado"
+        },
+        {
+          "english": "We would have liked them -> They would have pleased us",
+          "spanish": "Nos habrián gustado"
+        }
+      ]
+    },
+    {
+      "rule": "'should' = 'would owe' = 'debería'",
+      "examples": [
+        {
+          "english": "You should come to my house -> You would owe to come to my house",
+          "spanish": "Deberías venir a mi casa"
+        },
+        {
+          "english": "You should come to my house to eat -> You would owe to come to my house to eat",
+          "spanish": "Deberías venir a mi casa a comer"
+        },
+        {
+          "english": "We should speak about it -> We would owe to speak it",
+          "spanish": "Lo deberíamos hablar"
+        },
+        {
+          "english": "We should speak to him -> We would owe to speak to him",
+          "spanish": "Le deberíamos hablar"
+        },
+        {
+          "english": "We should speak to him -> We would owe to speak with he (less ambiguous)",
+          "spanish": "Deberíamos hablar con el"
+        }
+      ]
+    },
+    {
+      "rule": "Este/Estes = This/These (masculine). Esta/Estas = This/These (feminine)",
+      "examples": [
+        {
+          "english": "This car",
+          "spanish": "Este auto"
+        },
+        {
+          "english": "This night (tonight)",
+          "spanish": "Esta noche"
+        },
+        {
+          "english": "These hands",
+          "spanish": "Estas manos"
+        }
+      ]
+    },
+    {
+      "rule": "Ese/Eses = That/Those (masculine). Esa/Esas = That/Those (feminine)",
+      "examples": [
+        {
+          "english": "That car",
+          "spanish": "Ese auto"
+        },
+        {
+          "english": "That night",
+          "spanish": "Esa noche"
+        },
+        {
+          "english": "Those nights",
+          "spanish": "Esas noches"
         }
       ]
     }

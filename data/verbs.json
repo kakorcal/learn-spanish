@@ -1808,11 +1808,23 @@
       "type": "regular",
       "verb": "tomar",
       "definition": "To take / To drink (bebér)",
-      "hint": "Tomato juice",
+      "hint": "Sacar means to take out and sometimes can be used interchangeably",
       "examples": [
         {
           "english": "I don't want to take sugar",
           "spanish": "No quiero tomar azúcar"
+        },
+        {
+          "english": "I am taking a photo (right now)",
+          "spanish": "Estoy tomando (sacando) una foto"
+        },
+        {
+          "english": "I would take a photo",
+          "spanish": "Tomaría una foto"
+        },
+        {
+          "english": "I would like to take a photo but I don't have my camera -> It would please me to take a photo but I don't have my camera",
+          "spanish": "Me gustaría tomar una foto pero no tengo mi camera"
         }
       ],
       "subjects": [
@@ -1867,6 +1879,70 @@
             {
               "english": "We drink here",
               "spanish": "Tomamos aquí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "manejar",
+      "definition": "To manage / To handle",
+      "hint": "It also can be used as 'to drive'. Originally used to say 'to handle' horses",
+      "examples": [
+        {
+          "english": "I am managing the problem (right now)",
+          "spanish": "Estoy manajando la problema"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "manejo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I handle the problem",
+              "spanish": "Manejo la problema"
+            }
+          ]
+        },
+        {
+          "verb": "maneja",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "He manages the system",
+              "spanish": "Maneja la systema"
+            }
+          ]
+        },
+        {
+          "verb": "manejan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They manage the organization",
+              "spanish": "Manejan la organizacíon"
+            }
+          ]
+        },
+        {
+          "verb": "manejas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You drive fast",
+              "spanish": "Manejas rapido"
+            }
+          ]
+        },
+        {
+          "verb": "manejamos",
+          "subject": "first person plural",
+          "examples": [
+            {
+              "english": "We handle the problem",
+              "spanish": "Manejamos la problema"
             }
           ]
         }
