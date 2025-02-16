@@ -1629,6 +1629,48 @@
           "spanish": "Esas noches"
         }
       ]
+    },
+    {
+      "rule": "If a verb naturally displays characteristics ('to be') in it's definition, mostly likely you will need to combine it with an indirect object pronoun group",
+      "examples": [
+        {
+          "english": "We like it -> It is pleasing to us",
+          "spanish": "Nos gusta"
+        },
+        {
+          "english": "It interests me -> It is interesting to me",
+          "spanish": "Me interesa"
+        },
+        {
+          "english": "Is it interesting to you?",
+          "spanish": "Te interesa?"
+        },
+        {
+          "english": "Does it interest her to dance tonight?",
+          "spanish": "Le interesa bailar esta noche?"
+        },
+        {
+          "english": "Would it interest you -> Would it be interesting to you (formal)",
+          "spanish": "Le interesaría"
+        },
+        {
+          "english": "It would interest me to see it -> It would be interesting to me to see it",
+          "spanish": "Me interesaría verlo"
+        }
+      ]
+    },
+    {
+      "rule": "Append 'a' to in between verbs that express motion",
+      "examples": [
+        {
+          "english": "Does it interest her to go out to dance tonight?",
+          "spanish": "Le interesa 'salir a' bailar esta noche"
+        },
+        {
+          "english": "It seems to me that he doesn't want to go out tonight",
+          "spanish": "Me parese que no quiere 'salir' esta noche"
+        }
+      ]
     }
   ]
 }

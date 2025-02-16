@@ -1313,6 +1313,22 @@
         {
           "english": "I am going to set a table",
           "spanish": "Voy a poner la mesa"
+        },
+        {
+          "english": "I want to put it here",
+          "spanish": "Lo quiero poner aquí"
+        },
+        {
+          "english": "I would like to put it here -> It would be pleasing to me to put it here",
+          "spanish": "Me gustaría ponerlo aquí"
+        },
+        {
+          "english": "I want to put salt on it -> I want to put salt to it -> I want to put to it salt",
+          "spanish": "Quiero poner le sal"
+        },
+        {
+          "english": "I would like to put on them a little more salt -> It would be pleasing to me to put to them a little more salt",
+          "spanish": "Me gustaría poner les un poco más sal"
         }
       ],
       "subjects": [
@@ -3229,6 +3245,72 @@
             {
               "english": "They like you -> You are pleasing to them",
               "spanish": "Les gustas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "irregular",
+      "verb": "parecer",
+      "definition": "To seem",
+      "hint": "To appear",
+      "examples": [
+        {
+          "english": "To seem tired",
+          "spanish": "Parecer cansado"
+        },
+        {
+          "english": "It seems to me he doesn't like it -> It seems to me 'that' it is not pleasing to him",
+          "spanish": "Me parese que no le gusta"
+        },
+        {
+          "english": "It seems good to me -> It seems to me, good / well",
+          "spanish": "Me parese bien"
+        },
+        {
+          "english": "Doesn't it seem ok to you? -> Does it not seem to you, good / well?",
+          "spanish": "No te parese bien?"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "parezco",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I look like my mother",
+              "spanish": "Me parezco a mi madre"
+            }
+          ]
+        },
+        {
+          "verb": "parece",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "Today he looks younger",
+              "spanish": "Hoy parece más joven"
+            }
+          ]
+        },
+        {
+          "verb": "parecen",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They seem happy",
+              "spanish": "Parecen felíz"
+            }
+          ]
+        },
+        {
+          "verb": "pareces",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "Do you seem worried?",
+              "spanish": "¿Pareces preocupado?"
             }
           ]
         }
