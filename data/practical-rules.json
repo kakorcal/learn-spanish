@@ -129,7 +129,7 @@
       ]
     },
     {
-      "rule": "'ar' verbs will lose their 'ar' and replace it with 'ado' for past tense versions of the verbs",
+      "rule": "Past tense haber form: 'ar' verbs are replaced with 'ado'",
       "examples": [
         {
           "english": "I have spoken",
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "rule": "'ir/er' verbs will lose their 'ir/er' and replace it with 'ido' for past tense versions of the verbs",
+      "rule": "Past tense haber form: 'ir/er' and replace it with 'ido'",
       "examples": [
         {
           "english": "I have sold it",
@@ -163,6 +163,43 @@
         {
           "english": "We have lost",
           "spanish": "Hemos perdido"
+        }
+      ]
+    },
+    {
+      "rule": "Past tense ongoing action form: 'ar' and 'ir/er' are replaced 'aba'. 'I' pronoun uses the same form as 'he', 'she', 'it', 'you' formal pronouns.",
+      "examples": [
+        {
+          "english": "I was speaking",
+          "spanish": "Hablaba"
+        },
+        {
+          "english": "They were speaking",
+          "spanish": "Hablaban"
+        },
+        {
+          "english": "We were speaking",
+          "spanish": "Hablabamos"
+        },
+        {
+          "english": "I was waiting for you (informal) -> I was awaiting you (informal)",
+          "spanish": "Te esperaba"
+        },
+        {
+          "english": "I was waiting for you (formal / masculine) -> I was awaiting you (formal / masculine)",
+          "spanish": "Lo esperaba"
+        },
+        {
+          "english": "We were waiting for you guys (feminine)",
+          "spanish": "Las esperabamos"
+        },
+        {
+          "english": "They were trying to find it for me -> They were trying to find me it",
+          "spanish": "Me lo intentaban encontrar -> Intentaban encontrarmelo"
+        },
+        {
+          "english": "They were trying to find it for me (explicit)",
+          "spanish": "Intentaban encontrarlo para mi"
         }
       ]
     },
@@ -357,6 +394,14 @@
         {
           "english": "I would imagine that (what) he doesn't want to go",
           "spanish": "Me imaginaría que no quiere ir"
+        },
+        {
+          "english": "I would have gone out",
+          "spanish": "Habría salido"
+        },
+        {
+          "english": "I would have been able to go out",
+          "spanish": "Habría podido salir"
         }
       ]
     },
