@@ -1642,7 +1642,7 @@
       ]
     },
     {
-      "rule": "Este/Estes = This/These (masculine). Esta/Estas = This/These (feminine)",
+      "rule": "Este/Estos = This/These (masculine). Esta/Estas = This/These (feminine)",
       "examples": [
         {
           "english": "This car",
@@ -1659,7 +1659,7 @@
       ]
     },
     {
-      "rule": "Ese/Eses = That/Those (masculine). Esa/Esas = That/Those (feminine)",
+      "rule": "Ese/Esos = That/Those (masculine). Esa/Esas = That/Those (feminine)",
       "examples": [
         {
           "english": "That car",

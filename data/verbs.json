@@ -3315,6 +3315,188 @@
           ]
         }
       ]
+    },
+    {
+      "type": "regular",
+      "verb": "cenar",
+      "definition": "To dine",
+      "hint": "La cena means 'the dinner'",
+      "examples": [
+        {
+          "english": "I was dining",
+          "spanish": "Cenaba"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "ceno",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I dine with her",
+              "spanish": "Ceno con ella"
+            }
+          ]
+        },
+        {
+          "verb": "cena",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "He dines later",
+              "spanish": "Cena más tarde"
+            }
+          ]
+        },
+        {
+          "verb": "cenan",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They dine at the restaurant",
+              "spanish": "Cenan en el restaurante"
+            }
+          ]
+        },
+        {
+          "verb": "cenas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You dine with me",
+              "spanish": "Cenas conmigo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "quemar",
+      "definition": "To burn",
+      "hint": "In Latin it is spelled cremare (or cremate)",
+      "examples": [
+        {
+          "english": "He was burning the dinner",
+          "spanish": "Quemaba la cena -> El quemaba la cena"
+        },
+        {
+          "english": "The dinner was burning -> The dinner was burning itself",
+          "spanish": "La cena se quemaba -> Se quemaba la cena"
+        },
+        {
+          "english": "The dinner was burning in the pan",
+          "spanish": "La cena quemaba en la sartén"
+        },
+        {
+          "english": "I'm burning -> I was burning myself",
+          "spanish": "Me quemaba"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "quemo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I burn in the sun -> I burn myself in the sun",
+              "spanish": "Me quemo en el sol"
+            },
+            {
+              "english": "I burn the fish in the pan",
+              "spanish": "Quemo el pescado en la sartén"
+            }
+          ]
+        },
+        {
+          "verb": "quema",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "He burns himself while cooking",
+              "spanish": "El se quema mientras cocinaba"
+            }
+          ]
+        },
+        {
+          "verb": "queman",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They burn the money",
+              "spanish": "Queman el dinero"
+            }
+          ]
+        },
+        {
+          "verb": "quemas",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You burn in the park",
+              "spanish": "Te quemas en la parque"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "verb": "romper",
+      "definition": "To break",
+      "hint": "To rupture",
+      "examples": [
+        {
+          "english": "The material is difficult to break",
+          "spanish": "La materia esta dificíl romper"
+        },
+        {
+          "english": "Those ones break all the time -> Those break themselves all the time",
+          "spanish": "Esos se rompen todo el tiempo"
+        }
+      ],
+      "subjects": [
+        {
+          "verb": "rompo",
+          "subject": "first person singular",
+          "examples": [
+            {
+              "english": "I break it",
+              "spanish": "Lo rompo"
+            }
+          ]
+        },
+        {
+          "verb": "rompe",
+          "subject": "second person singular, third person singular",
+          "examples": [
+            {
+              "english": "It breaks all the time -> It breaks itself all the time",
+              "spanish": "Se rompe todo el tiempo"
+            }
+          ]
+        },
+        {
+          "verb": "rompen",
+          "subject": "second person plural, third person plural",
+          "examples": [
+            {
+              "english": "They break all the time",
+              "spanish": "Se rompen todo el tiempo"
+            }
+          ]
+        },
+        {
+          "verb": "rompes",
+          "subject": "second person singular informal",
+          "examples": [
+            {
+              "english": "You break the spaghetti",
+              "spanish": "Rompes los espaguetis"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
