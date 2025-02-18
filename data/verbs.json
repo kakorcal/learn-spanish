@@ -1037,6 +1037,10 @@
             {
               "english": "What did it say?",
               "spanish": "Qué dice?"
+            },
+            {
+              "english": "How do you say 'gato' in English? (How does it say itself 'gato' in English?)",
+              "spanish": "¿Cómo se dice 'gato' en inglés?"
             }
           ]
         },
@@ -2521,6 +2525,10 @@
         {
           "english": "I am going to stay until 7 o'clock",
           "spanish": "Voy a quedar me hasta las siete"
+        },
+        {
+          "english": "I would stay here -> I would remain myself here",
+          "spanish": "Me quedaría aquí"
         }
       ],
       "subjects": [
@@ -2545,6 +2553,10 @@
             {
               "english": "He stays until next week",
               "spanish": "El lo queda hasta la semana qué viene"
+            },
+            {
+              "english": "I have one left -> It remains to me one",
+              "spanish": "Me queda uno (una if feminine)"
             }
           ]
         },
@@ -2555,6 +2567,14 @@
             {
               "english": "They are staying here",
               "spanish": "Ellos los quedan aquí"
+            },
+            {
+              "english": "I have two left -> They remain to me two",
+              "spanish": "Me quedan dos"
+            },
+            {
+              "english": "I don't have any left -> They do not remain to me",
+              "spanish": "No me quedan"
             }
           ]
         },
@@ -3451,8 +3471,24 @@
           "spanish": "La materia esta dificíl romper"
         },
         {
+          "english": "It is going to break (itself)",
+          "spanish": "Se va a romper"
+        },
+        {
           "english": "Those ones break all the time -> Those break themselves all the time",
           "spanish": "Esos se rompen todo el tiempo"
+        },
+        {
+          "english": "They would break it",
+          "spanish": "Lo romperián"
+        },
+        {
+          "english": "They were breaking it",
+          "spanish": "Lo rompían"
+        },
+        {
+          "english": "It breaks (itself)",
+          "spanish": "Se rompe"
         }
       ],
       "subjects": [

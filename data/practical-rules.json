@@ -167,7 +167,7 @@
       ]
     },
     {
-      "rule": "Past tense ongoing action form: 'ar' and 'ir/er' are replaced 'aba'. 'I' pronoun uses the same form as 'he', 'she', 'it', 'you' formal pronouns.",
+      "rule": "Past tense ongoing action form: 'ar' is replaced by 'aba'. 'I' pronoun uses the same form as 'he', 'she', 'it', 'you' formal pronouns.",
       "examples": [
         {
           "english": "I was speaking",
@@ -200,6 +200,23 @@
         {
           "english": "They were trying to find it for me (explicit)",
           "spanish": "Intentaban encontrarlo para mi"
+        }
+      ]
+    },
+    {
+      "rule": "Past tense ongoing action form: 'ir/er' is replaced by 'ía'. 'I' pronoun uses the same form as 'he', 'she', 'it', 'you' formal pronouns.",
+      "examples": [
+        {
+          "english": "I was eating. I would eat.",
+          "spanish": "Comía. Comería"
+        },
+        {
+          "english": "I was selling it. I would sell it.",
+          "spanish": "Lo vendía. Lo vendería"
+        },
+        {
+          "english": "It was for sale (it sells itself). It would be for sale. For sale.",
+          "spanish": "Se vendía. Se vendería. Se vende"
         }
       ]
     },
