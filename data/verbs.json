@@ -19,6 +19,18 @@
             {
               "english": "I am going here",
               "spanish": "Voy a aquí"
+            },
+            {
+              "english": "I was going here",
+              "spanish": "Iba aquí"
+            },
+            {
+              "english": "I was going to call you",
+              "spanish": "Iba a llamarte"
+            },
+            {
+              "english": "I was going to do it",
+              "spanish": "Iba a hacerlo"
             }
           ]
         },
@@ -59,6 +71,10 @@
             {
               "english": "We go now",
               "spanish": "Vamos ahora"
+            },
+            {
+              "english": "We were going to make it",
+              "spanish": "Ibamos a hacerlo"
             }
           ]
         }
@@ -77,6 +93,14 @@
         {
           "english": "To be correct",
           "spanish": "Tener razón"
+        },
+        {
+          "english": "I used to have a big house",
+          "spanish": "Tenía una casa grande"
+        },
+        {
+          "english": "I used to have 3 but I don't have any left -> I used to have 3 but now they does not remain for myself",
+          "spanish": "Tenía tres pero ahora no me quedan"
         }
       ],
       "subjects": [
@@ -99,6 +123,10 @@
             {
               "english": "I have to go now but I would like to come next week",
               "spanish": "Tengo qué ir ahora pero gusto venir la semana qué viene"
+            },
+            {
+              "english": "I had to see you yesterday -> I was having to see you yesterday",
+              "spanish": "Tenía que verte ayer"
             }
           ]
         },
@@ -393,6 +421,10 @@
             {
               "english": "We see each other (again later)",
               "spanish": "Nos vemos"
+            },
+            {
+              "english": "We were seeing it",
+              "spanish": "Lo veíamos"
             }
           ]
         }
@@ -951,6 +983,10 @@
         {
           "english": "I am going to sell it",
           "spanish": "Voy a vender lo"
+        },
+        {
+          "english": "Did you have to do it yesterday? -> Were you having to do it yesterday?",
+          "spanish": "Tenías que hacerlo ayer"
         }
       ],
       "subjects": [
@@ -2649,6 +2685,14 @@
             {
               "english": "You call her tonight",
               "spanish": "La llama esta noche"
+            },
+            {
+              "english": "What is her name? -> How does she call herself?",
+              "spanish": "Comó se llama"
+            },
+            {
+              "english": "What was she called? How was she calling herself?",
+              "spanish": "Comó se llamaba?"
             }
           ]
         },
@@ -2659,6 +2703,10 @@
             {
               "english": "They call the restaurant",
               "spanish": "llaman el restaurante"
+            },
+            {
+              "english": "What was their names? -> How were they calling themselves?",
+              "spanish": "Comó se llamaban?"
             }
           ]
         },
@@ -2715,6 +2763,10 @@
             {
               "english": "I am a happy person",
               "spanish": "Soy una persona féliz"
+            },
+            {
+              "english": "I used to be a student",
+              "spanish": "Era estudiante"
             }
           ]
         },
@@ -2751,6 +2803,10 @@
             {
               "english": "They are Japanese",
               "spanish": "Son Japonés"
+            },
+            {
+              "english": "What were they?",
+              "spanish": "Qué eran?"
             }
           ]
         },
@@ -2761,6 +2817,10 @@
             {
               "english": "You are Japanese",
               "spanish": "Eres Japonés"
+            },
+            {
+              "english": "Were you a student?",
+              "spanish": "Eras estudiante?"
             }
           ]
         },
@@ -2771,6 +2831,10 @@
             {
               "english": "We are Japanese",
               "spanish": "Somos Japonés"
+            },
+            {
+              "english": "We were students",
+              "spanish": "Eramos estudiantes"
             }
           ]
         }

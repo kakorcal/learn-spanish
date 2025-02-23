@@ -1538,6 +1538,61 @@
       ]
     },
     {
+      "rule": "Para (For) is used when something is for somebody",
+      "examples": [
+        {
+          "english": "This (masculine thing) is for you",
+          "spanish": "Este es para ti"
+        },
+        {
+          "english": "These (masculine things) are for you",
+          "spanish": "Estos son para ti"
+        },
+        {
+          "english": "I'm buying it for you",
+          "spanish": "Lo compro para ti"
+        }
+      ]
+    },
+    {
+      "rule": "Por (For) is used to express the phrase 'because of ...'",
+      "examples": [
+        {
+          "english": "Because of what? -> why?",
+          "spanish": "Porque?"
+        },
+        {
+          "english": "Because of that",
+          "spanish": "Porque"
+        },
+        {
+          "english": "Because of this reason I don't want to go",
+          "spanish": "Po esta razón no quiero ir"
+        },
+        {
+          "english": "I'm buying it because of you",
+          "spanish": "Lo compro por ti"
+        }
+      ]
+    },
+    {
+      "rule": "Por (For) is used to express time durations",
+      "examples": [
+        {
+          "english": "I am staying for 3 days ->  I remain myself for 3 days",
+          "spanish": "Me quedo por tres días"
+        },
+        {
+          "english": "I will stay for 3 days -> I will remain myself for 3 days",
+          "spanish": "Me quedaré por tres días"
+        },
+        {
+          "english": "I would stay for 3 days -> I would remain myself for 3 days",
+          "spanish": "Me quedaría por tres días"
+        }
+      ]
+    },
+    {
       "rule": "Spanish may use different prepositions for certain expressions when compared with English",
       "examples": [
         {
