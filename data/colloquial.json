@@ -80,7 +80,7 @@
     },
     {
       "expression": "Tomar el pelo.",
-      "meaning": "To pull someone’s hair.",
+      "meaning": "To pull someone's hair.",
       "usage": "Means joking around or teasing someone."
     },
     {
@@ -107,6 +107,11 @@
       "expression": "Caballero nomás",
       "meaning": "No more knights.",
       "usage": "Expressing resigned acceptance of an uncomfortable circumstance."     
+    },
+    {
+      "expression": "Esta bien",
+      "meaning": "It's ok",
+      "usage": "Used to indicate agreement or acceptance. Bueno on the other hand is used as an adjective to express if the noun is good"     
     }
   ]
 }

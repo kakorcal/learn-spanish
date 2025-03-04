@@ -204,6 +204,52 @@
       ]
     },
     {
+      "rule": "Estaba + future tense '-ing' form can also be used as a past tense ongoing action form",
+      "examples": [
+        {
+          "english": "I was taking a Spanish course -> I was taking a course of Spanish",
+          "spanish": "Tomaba un curso de Espanõl -> Estaba tomando un curso de Espanõl"
+        },
+        {
+          "english": "I was eating.",
+          "spanish": "Comía -> Estaba comiendo"
+        },
+        {
+          "english": "It was for sale (it sells itself). It would be for sale. For sale.",
+          "spanish": "Se vendía. Se vendería. Se vende"
+        }
+      ]
+    },
+    {
+      "rule": "When using '-ing' form as an adjective, the 'ar' changes to 'ante' and 'ir/er' changes to 'iente'",
+      "examples": [
+        {
+          "english": "To interest. Interesting",
+          "spanish": "Interesar. Intersante"
+        },
+        {
+          "english": "To irritate. Irritating",
+          "spanish": "Irritar. Irritante"
+        },
+        {
+          "english": "It is irritating",
+          "spanish": "Es irritante"
+        },
+        {
+          "english": "To frustrate. Frustrating",
+          "spanish": "Frustrar. Frustrante"
+        },
+        {
+          "english": "The waning moon -> The moon waning",
+          "spanish": "La luna menguante"
+        },
+        {
+          "english": "A living being",
+          "spanish": "Un ser viviente"
+        }
+      ]
+    },
+    {
       "rule": "Past tense ongoing action form: 'ir/er' is replaced by 'ía'. 'I' pronoun uses the same form as 'he', 'she', 'it', 'you' formal pronouns.",
       "examples": [
         {
@@ -362,6 +408,35 @@
         {
           "english": "They are opening (now)",
           "spanish": "Estan abriendo"
+        }
+      ]
+    },
+    {
+      "rule": "Estar implies states like location so we don't need to say 'there' (dondé)",
+      "examples": [
+        {
+          "english": "I'm there for you -> I'm for you",
+          "spanish": "Estoy para ti"
+        },
+        {
+          "english": "I'm here because of you (formal) -> I'm because of you",
+          "spanish": "Estoy por usted"
+        },
+        {
+          "english": "Are you (informal) there? -> Are you?",
+          "spanish": "Estas?"
+        },
+        {
+          "english": "Is Juan there? -> Is Juan?",
+          "spanish": "Es Juan?"
+        },
+        {
+          "english": "I have come because of you",
+          "spanish": "He venido por ti"
+        },
+        {
+          "english": "It is because of you that we have come",
+          "spanish": "Es por ti que hemos venido"
         }
       ]
     },
@@ -634,7 +709,7 @@
       ]
     },
     {
-      "rule": "Functional object words (pronouns) can come before or after 'to' form verbs. Putting the pronoun before is more common.",
+      "rule": "Functional object words (pronouns) can come before or after 'to' form and '-ing' form verbs. Putting the pronoun before is more common.",
       "examples": [
         {
           "english": "I want to see 'it'",
@@ -643,6 +718,14 @@
         {
           "english": "I want to see 'it'",
           "spanish": "Lo quiero ver"
+        },
+        {
+          "english": "I'm explaining it",
+          "spanish": "Lo estoy explicando -> Estory explicandolo"
+        },
+        {
+          "english": "I'm taking a Spanish course -> I'm taking a course of Spanish",
+          "spanish": "Estoy tomando un curso de Espanõl"
         }
       ]
     },
@@ -1555,6 +1638,27 @@
       ]
     },
     {
+      "rule": "Para (For) is used to express 'in order to ...'. In English 'in order to ...' can usually be omitted but in Spanish it is required.",
+      "examples": [
+        {
+          "english": "We have spoken in order to resolve it",
+          "spanish": "Hemos hablado para resolverlo"
+        },
+        {
+          "english": "We have spoken in order to try to resolve it",
+          "spanish": "Hemos hablado para intentar resolverlo"
+        },
+        {
+          "english": "I'm here to see you -> I'm here in order to see you (informal)",
+          "spanish": "Estoy aquí para verte"
+        },
+        {
+          "english": "I have called you (informal) to speak about it -> I have called you in order to speak it",
+          "spanish": "Te he llamado para hablarlo"
+        }
+      ]
+    },
+    {
       "rule": "Por (For) is used to express the phrase 'because of ...'",
       "examples": [
         {
@@ -1593,6 +1697,32 @@
       ]
     },
     {
+      "rule": "Por (For) is used to for exchaning this for that",
+      "examples": [
+        {
+          "english": "I would change this (masculine) one for that (masculine) one",
+          "spanish": "Cambiaría este por ese"
+        },
+        {
+          "english": "I would change these (masculine) ones for those (masculine) ones",
+          "spanish": "Cambiaría estos por esos"
+        },
+        {
+          "english": "Would you (informal) change these (masculine) ones for those (masculine) ones?",
+          "spanish": "Cambiarías estos por esos"
+        }
+      ]
+    },
+    {
+      "rule": "Por (For) can be used as a multiplication symbol",
+      "examples": [
+        {
+          "english": "Eight times eight",
+          "spanish": "Ocho por ocho"
+        }
+      ]
+    },
+    {
       "rule": "Spanish may use different prepositions for certain expressions when compared with English",
       "examples": [
         {
@@ -1606,6 +1736,39 @@
         {
           "english": "I dream of her -> I dream with her",
           "spanish": "Sueño con ella"
+        }
+      ]
+    },
+    {
+      "rule": "If a verb comes after a preposition, the 'to' form of the verb is used",
+      "examples": [
+        {
+          "english": "Thank you for coming",
+          "spanish": "Gracias por venir"
+        },
+        {
+          "english": "Thank you for calling me",
+          "spanish": "Gracias por llamarme"
+        },
+        {
+          "english": "I (feminine) am tired of working",
+          "spanish": "Estoy cansada de trabajar"
+        },
+        {
+          "english": "I (feminine) was tired of working",
+          "spanish": "Estaba cansada de trabajar"
+        },
+        {
+          "english": "We (masculine/mixed) were tired of working",
+          "spanish": "Estabamos cansados de trabajar"
+        },
+        {
+          "english": "It is a way of doing it",
+          "spanish": "Es una forma de hacerlo"
+        },
+        {
+          "english": "I don't believe in arguing in this way -> I don't believe in arguing of this way",
+          "spanish": "No creo en discutir de esta forma"
         }
       ]
     },
@@ -1786,6 +1949,15 @@
         {
           "english": "It seems to me that he doesn't want to go out tonight",
           "spanish": "Me parese que no quiere 'salir' esta noche"
+        }
+      ]
+    },
+    {
+      "rule": "Days of the week refer to planets",
+      "examples": [
+        {
+          "english": "Monday -> Moon day",
+          "spanish": "Lunes"
         }
       ]
     }

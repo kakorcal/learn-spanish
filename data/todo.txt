@@ -1,3 +1,45 @@
+cambiar -> to change
+creer -> to believe
+crear -> to create
+resolver -> to resolve
+nadar -> to swim
+menguar -> to wane (to reduce)
+explicar -> to explain (plicare means 'to fold' in latin. so explains means to 'unfold')
+discutir -> to discuss (get into argument)
+hablar -> to discuss / speak (light chat)
+argüir -> to argue (to explain a point)
+forma -> way
+actual -> current
+health -> salud
+healthy -> saludable
+saliente -> outgoing (salir in 'ente' form. In English, 'salient' is the equivalent word)
+frustrar -> to frustrate
+irritar -> to irritate
+preguntar -> to ask
+puntuar -> to rate
+cuál -> which
+cada -> each
+casi -> already
+sitio -> place
+mejor -> better
+Qué rico -> That's great
+encantar (enchant) -> to love
+también -> too/also
+demasiado -> too much
+así -> so/like this/like that/thus/therefore/for example
+fue vs iba
+pues vs bueno vs bien
+vamos a vs nos vamos a
+conducir -> to drive
+oye -> hey
+verdad -> truth
+curso -> course
+quererme -> want/love me
+Alguien -> someone
+nevar -> to snow
+llover -> to rain
+Aquí vs Acá vs Ahí vs Allí vs Allá
+
 {
   "rule": "Use que as 'that', 'who', or 'which'",
   "examples": []
