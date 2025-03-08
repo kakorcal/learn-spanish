@@ -263,6 +263,18 @@
         {
           "english": "It was for sale (it sells itself). It would be for sale. For sale.",
           "spanish": "Se vendía. Se vendería. Se vende"
+        },
+        {
+          "english": "I couldn't do it because I didn't have the time. -> I was not able to do it because I did not have the time.",
+          "spanish": "No podía hacerlo porque no tenía el tiempo"
+        },
+        {
+          "english": "I couldn't do it yesterday.",
+          "spanish": "No podía hacerlo ayer"
+        },
+        {
+          "english": "We could go -> We were able to go",
+          "spanish": "Podíamos ir"
         }
       ]
     },
@@ -1798,7 +1810,7 @@
       ]
     },
     {
-      "rule": "'would be able to' = 'podría'. Due to long historic usage, what would be 'podería' is shortened to 'podría'",
+      "rule": "Future tense 'would be able to' = 'podría'. Due to long historic usage, what would be 'podería' is shortened to 'podría'",
       "examples": [
         {
           "english": "Could you come to my house? -> Would you be able to come to my house?",
@@ -1815,7 +1827,7 @@
       ]
     },
     {
-      "rule": "'would have' = 'habría'. Due to long historic usage, what would be 'habería' is shortened to 'habría'",
+      "rule": "Future tense 'would have' = 'habría'. Due to long historic usage, what would be 'habería' is shortened to 'habría'",
       "examples": [
         {
           "english": "I would have gone",
@@ -1852,7 +1864,7 @@
       ]
     },
     {
-      "rule": "'should' = 'would owe' = 'debería'",
+      "rule": "Future tense 'should' = 'would owe' = 'debería'",
       "examples": [
         {
           "english": "You should come to my house -> You would owe to come to my house",
@@ -1873,6 +1885,130 @@
         {
           "english": "We should speak to him -> We would owe to speak with he (less ambiguous)",
           "spanish": "Deberíamos hablar con el"
+        }
+      ]
+    },
+    {
+      "rule": "Past tense 'had' = 'había'",
+      "examples": [
+        {
+          "english": "I had eaten already -> Already, I had eaten",
+          "spanish": "Ya había comido"
+        },
+        {
+          "english": "He wanted to dine with me but I had dined already -> He wanted to dine with me but already, I had dined",
+          "spanish": "El quería cenar conmigo pero yo ya había cenado"
+        }
+      ]
+    },
+    {
+      "rule": "Use line in the past ongoing action form if the verb is continuous and not an instant in the past",
+      "examples": [
+        {
+          "english": "He was looking for it because I had lost it",
+          "spanish": "El lo buscaba porque yo lo había perdido"
+        },
+        {
+          "english": "He wanted to dine with me but I had dined already -> He wanted to dine with me but already, I had dined",
+          "spanish": "El quería cenar conmigo pero yo ya había cenado"
+        },
+        {
+          "english": "I had got lost -> I had lost myself",
+          "spanish": "Me había perdido"
+        },
+        {
+          "english": "I would have got lost -> I would have lost myself",
+          "spanish": "Me habría perdido"
+        },
+        {
+          "english": "I would have lost it",
+          "spanish": "Lo habría perdido"
+        }
+      ]
+    },
+    {
+      "rule": "Any form of haber (he, había, habría, habré, etc) will follow with the 'ado/ido' form of the verb",
+      "examples": [
+        {
+          "english": "I would like to have gone -> It would have pleased me to have gone",
+          "spanish": "Me gustaría haber ido"
+        }
+      ]
+    },
+    {
+      "rule": "When using haber verbs as an adjective, haber is replaced with 'estar' (there are some exceptions)",
+      "examples": [
+        {
+          "english": "I have lost (verb)",
+          "spanish": "He perdido"
+        },
+        {
+          "english": "I am lost (adjective)",
+          "spanish": "Estoy perdido (perdida if feminine)"
+        },
+        {
+          "english": "I have closed it (verb)",
+          "spanish": "Lo he cerrado"
+        },
+        {
+          "english": "I have closed (the door 'la puerta') it",
+          "spanish": "La he cerrado"
+        },
+        {
+          "english": "It (the door) is closed (adjective)",
+          "spanish": "Está cerrada"
+        },
+        {
+          "english": "I have finished (verb)",
+          "spanish": "He terminado"
+        },
+        {
+          "english": "It is finished (adjective)",
+          "spanish": "Está terminado"
+        },
+        {
+          "english": "It (the movie 'la película') is finished (adjective)",
+          "spanish": "Está terminada"
+        },
+        {
+          "english": "They are sold (adjective)",
+          "spanish": "Están vendidos"
+        },
+        {
+          "english": "They (the houses) are sold (adjective)",
+          "spanish": "Están vendidas"
+        },
+        {
+          "english": "I get tired (verb) -> I tire myself",
+          "spanish": "Me canso"
+        },
+        {
+          "english": "I am tired (adjective)",
+          "spanish": "Estoy cansado"
+        },
+        {
+          "english": "He is closed (verb) to the idea",
+          "spanish": "Está cerrado a la idea"
+        },
+        {
+          "english": "He is a closed (adjective) person -> He is a person closed",
+          "spanish": "Es una persona cerrada"
+        },
+        {
+          "english": "She is lost (adjective)",
+          "spanish": "Esta perdida"
+        },
+        {
+          "english": "She is a lost person",
+          "spanish": "Es una persona perdida"
+        },
+        {
+          "english": "The chair is wet (adjective)",
+          "spanish": "La silla está mojada"
+        },
+        {
+          "english": "It is a wet chair (adjective)",
+          "spanish": "Está una silla mojada"
         }
       ]
     },

@@ -1,6 +1,7 @@
 cambiar -> to change
 creer -> to believe
 crear -> to create
+cenar -> to dine
 resolver -> to resolve
 nadar -> to swim
 menguar -> to wane (to reduce)
@@ -8,10 +9,19 @@ explicar -> to explain (plicare means 'to fold' in latin. so explains means to '
 discutir -> to discuss (get into argument)
 hablar -> to discuss / speak (light chat)
 argüir -> to argue (to explain a point)
+buscar -> to look for
+perder -> to lose
 forma -> way
+ya -> already
+la puerta -> the door
+la película -> the movie
+la fiesta -> the party
+idea -> idea
+la silla -> the chair
+mojar -> to wet
 actual -> current
-health -> salud
-healthy -> saludable
+salud -> health
+saludable -> healthy
 saliente -> outgoing (salir in 'ente' form. In English, 'salient' is the equivalent word)
 frustrar -> to frustrate
 irritar -> to irritate
