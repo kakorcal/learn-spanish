@@ -2009,6 +2009,127 @@
         {
           "english": "It is a wet chair (adjective)",
           "spanish": "Está una silla mojada"
+        },
+        {
+          "english": "I have cancelled (verb)",
+          "spanish": "He cancellado"
+        },
+        {
+          "english": "It is cancelled (adjective)",
+          "spanish": "Está cancellado"
+        },
+        {
+          "english": "It has got complicated (verb) -> It has complicated itself",
+          "spanish": "Se ha complicado"
+        },
+        {
+          "english": "It is complicated (adjective)",
+          "spanish": "Está complicado"
+        },
+        {
+          "english": "I should have cancelled -> I should to have cancelled it",
+          "spanish": "Debería haberlo cancellado -> Lo debería haber cancellado"
+        },
+        {
+          "english": "I could have gone",
+          "spanish": "Podría haber ido"
+        }
+      ]
+    },
+    {
+      "rule": "Irregular haber verbs: Romper (to break) is 'roto' with haber",
+      "examples": [
+        {
+          "english": "I have broken it",
+          "spanish": "Lo he roto"
+        },
+        {
+          "english": "I have broken them",
+          "spanish": "Los he roto"
+        },
+        {
+          "english": "It has broken -> It has broken itself",
+          "spanish": "Se ha roto"
+        },
+        {
+          "english": "It (the chair) is broken",
+          "spanish": "Está roto"
+        }
+      ]
+    },
+    {
+      "rule": "Irregular haber verbs: Morir (to die) is 'muerto' with haber",
+      "examples": [
+        {
+          "english": "He has died",
+          "spanish": "El ha muerto"
+        },
+        {
+          "english": "He is dead",
+          "spanish": "El está muerto (morir does not use ser)"
+        },
+        {
+          "english": "I'm dead (I'm really tired)",
+          "spanish": "Estoy muerto"
+        },
+        {
+          "english": "I die myself (I can't believe it / That is hilarious)",
+          "spanish": "Me muerto"
+        }
+      ]
+    },
+    {
+      "rule": "Irregular haber verbs: Abrir (to open) is 'abierto' with haber",
+      "examples": [
+        {
+          "english": "It is open",
+          "spanish": "Está abierto"
+        },
+        {
+          "english": "They are open",
+          "spanish": "Están abiertos"
+        },
+        {
+          "english": "I have opened it",
+          "spanish": "Lo he abierto"
+        }
+      ]
+    },
+    {
+      "rule": "Irregular haber verbs: Decir (to say) is 'dicho' with haber",
+      "examples": [
+        {
+          "english": "I have said it",
+          "spanish": "Lo he dicho"
+        },
+        {
+          "english": "I have told them -> I have told to them",
+          "spanish": "Le he dicho"
+        }
+      ]
+    },
+    {
+      "rule": "Irregular haber verbs: Hacer (to do) is 'hecho' with haber",
+      "examples": [
+        {
+          "english": "I have done it",
+          "spanish": "Lo he hecho"
+        },
+        {
+          "english": "I should have done it",
+          "spanish": "Lo debería haber hecho -> Debería haberlo hecho"
+        },
+        {
+          "english": "You should have done it",
+          "spanish": "Deberías haberlo hecho"
+        },
+        {
+          "english": "It is done",
+          "spanish": "Está hecho"
+        },
+        {
+          "english": "Made in China (It is done in China)",
+          "spanish": "Hecho en China"
         }
       ]
     },
