@@ -424,7 +424,7 @@
       ]
     },
     {
-      "rule": "Estar implies states like location so we don't need to say 'there' (dondé)",
+      "rule": "Estar implies states like location so we don't need to say 'there' (dondé) or 'here' (aquí)",
       "examples": [
         {
           "english": "I'm there for you -> I'm for you",
@@ -437,6 +437,10 @@
         {
           "english": "Are you (informal) there? -> Are you?",
           "spanish": "Estas?"
+        },
+        {
+          "english": "Who is here? -> Who is?",
+          "spanish": "Quien esta aquí -> Quien esta?"
         },
         {
           "english": "Is Juan there? -> Is Juan?",
@@ -1785,6 +1789,57 @@
       ]
     },
     {
+      "rule": "Prepositions will not come at the end of sentences as they do in English",
+      "examples": [
+        {
+          "english": "Where are you from? -> From where are you?",
+          "spanish": "De dónde eres?"
+        },
+        {
+          "english": "Where are you going (to)? -> To where are you going? (informal)",
+          "spanish": "A dónde vas?"
+        }
+      ]
+    },
+    {
+      "rule": "You can add 'la' or 'el' to describe determiners",
+      "examples": [
+        {
+          "english": "The girl I work with -> The girl with which (determiner) I work",
+          "spanish": "La chica con la cúal trabajo"
+        }
+      ]
+    },
+    {
+      "rule": "Determiners like 'which', 'that', and 'who' have their own words but can also use 'que'",
+      "examples": [
+        {
+          "english": "It is the girl I used to work with -> It is the girl with who I used to work",
+          "spanish": "Es la chica con que (quien) trabajaba"
+        },
+        {
+          "english": "Which one do you want? -> Which do you want?",
+          "spanish": "Cuál (que) quieres?"
+        },
+        {
+          "english": "I don't know which one he wants to do it with -> I don't know with which he wants to do it",
+          "spanish": "No sé con cuál (que) quiere hacerlo"
+        },
+        {
+          "english": "Who is going? -> Who goes?",
+          "spanish": "Quien va?"
+        },
+        {
+          "english": "Whose going? (plural)",
+          "spanish": "Quienes van?"
+        },
+        {
+          "english": "I don't know who I have to do it for -> I don't know for whom I have to do it",
+          "spanish": "No sé para quien (que) tengo que hacerlo"
+        }
+      ]
+    },
+    {
       "rule": "When using con with you or me, 'go' is added to the end of the word (ie. 'contigo' / 'conmigo')",
       "examples": [
         {
@@ -1923,6 +1978,39 @@
         {
           "english": "I would have lost it",
           "spanish": "Lo habría perdido"
+        }
+      ]
+    },
+    {
+      "rule": "Past tense complete point in the past: replace '-ar' with 'é' for I form or with 'ó' for he/she/it/you informal form.",
+      "examples": [
+        {
+          "english": "I didn't speak",
+          "spanish": "No hablé"
+        },
+        {
+          "english": "He didn't speak",
+          "spanish": "No habló"
+        },
+        {
+          "english": "He bought it for me",
+          "spanish": "Me lo compró -> Lo compró para mi"
+        },
+        {
+          "english": "I sent it to you (informal)",
+          "spanish": "Te lo envié"
+        },
+        {
+          "english": "I didn't send it to you yet (informal)",
+          "spanish": "No te lo envié todavia"
+        },
+        {
+          "english": "It was sent yesterday -> It sent itself yesterday",
+          "spanish": "Se envió ayer"
+        },
+        {
+          "english": "I was going to do it but I forgot it",
+          "spanish": "Iba a hacerlo pero lo olvidé"
         }
       ]
     },
@@ -2215,6 +2303,49 @@
         {
           "english": "Monday -> Moon day",
           "spanish": "Lunes"
+        }
+      ]
+    },
+    {
+      "rule": "'Lo [word]' = 'The [word] thing'",
+      "examples": [
+        {
+          "english": "The good thing",
+          "spanish": "Lo bueno"
+        },
+        {
+          "english": "The interesting thing is that they live together",
+          "spanish": "Lo interesante es que vivin juntos"
+        }
+      ]
+    },
+    {
+      "rule": "'Lo de' = 'The thing about' (very common)",
+      "examples": [
+        {
+          "english": "The thing about the party",
+          "spanish": "Lo de la fiesta"
+        },
+        {
+          "english": "We are speaking about the thing about the party",
+          "spanish": "Hablamos sobre lo de la fiesta"
+        },
+        {
+          "english": "I don't want to speak about Juan's business like this -> I don't want to speak of the thing about Juan like this",
+          "spanish": "No quiero hablar de lo de Juan asi"
+        }
+      ]
+    },
+    {
+      "rule": "'Asi' = 'Like this' or 'Like that' (very common). This replaces phrases like 'in that way' or 'in this manner'",
+      "examples": [
+        {
+          "english": "We don't speak in this (of that) way -> We don't speak like this",
+          "spanish": "No hablamos de esa forma -> No hablamos asi"
+        },
+        {
+          "english": "I don't want to organize it like this",
+          "spanish": "No quiero organizarlo asi"
         }
       ]
     }
