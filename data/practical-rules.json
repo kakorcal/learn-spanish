@@ -246,6 +246,18 @@
         {
           "english": "A living being",
           "spanish": "Un ser viviente"
+        },
+        {
+          "english": "For two minutes -> during two minutes",
+          "spanish": "Por dos minutos -> Durante dos minutos"
+        },
+        {
+          "english": "He ate for half an hour -> He ate during half an hour",
+          "spanish": "Comío durante media hora"
+        },
+        {
+          "english": "He spoke for half an hour without stopping -> He spoke during half an hour without to stop",
+          "spanish": "Habló durante media hora sin parar"
         }
       ]
     },
@@ -275,6 +287,69 @@
         {
           "english": "We could go -> We were able to go",
           "spanish": "Podíamos ir"
+        }
+      ]
+    },
+    {
+      "rule": "Past tense we form: use present tense + context",
+      "examples": [
+        {
+          "english": "When we spoke I understood everything",
+          "spanish": "Cuando hablamos entendí todo"
+        },
+        {
+          "english": "We spoke yesterday",
+          "spanish": "Hablamos ayer"
+        },
+        {
+          "english": "We will speak tomorrow",
+          "spanish": "Hablamos mañana"
+        },
+        {
+          "english": "We waited a lot (yesterday)",
+          "spanish": "Esperamos mucho ayer"
+        }
+      ]
+    },
+    {
+      "rule": "Past tense we form: 'er' is replaced with 'imos'. 'ir' stays the same.",
+      "examples": [
+        {
+          "english": "We are going out (leaving)",
+          "spanish": "Salimos"
+        },
+        {
+          "english": "We went out (left)",
+          "spanish": "Salimos"
+        },
+        {
+          "english": "We lost",
+          "spanish": "Perdimos"
+        },
+        {
+          "english": "We got lost -> We lost ourselves",
+          "spanish": "Nos perdimos"
+        },
+        {
+          "english": "We always get lost but we didn't get lost yesterday",
+          "spanish": "Nos perdemos siempre pero no nos perdimos ayer"
+        },
+        {
+          "english": "We don't go out often but we went out yesterday",
+          "spanish": "No salimos a menudo pero salimos ayer"
+        }
+      ]
+    },
+    {
+      "rule": "Past tense complete point in the past and line in the past ongoing action forms can used together in one sentence.",
+      "examples": [
+        {
+          "english": "I was cooking (line in the past) when the phone rang (sounded) (point in the past)",
+          "spanish": "Cocinaba cuando el telefono sonó"
+        },
+        {
+          "english": "I was speaking (line in the past) on (by) the phone when Maria arrived (point in the past)",
+          "spanish": "Hablaba por el telefono cuando Maria llegó"
         }
       ]
     },
@@ -2011,6 +2086,60 @@
         {
           "english": "I was going to do it but I forgot it",
           "spanish": "Iba a hacerlo pero lo olvidé"
+        }
+      ]
+    },
+    {
+      "rule": "Past tense complete point in the past: replace 'ir/er' with 'ì' for I form or with 'ìo' for he/she/it forms.",
+      "examples": [
+        {
+          "english": "I went out -> I left",
+          "spanish": "Salì"
+        },
+        {
+          "english": "She didn't leave yet",
+          "spanish": "No salìo todavia"
+        },
+        {
+          "english": "I saw him (it)",
+          "spanish": "Lo ví"
+        },
+        {
+          "english": "I saw him but he didn't see me",
+          "spanish": "Yo (optional) lo ví pero el (optional) no me vìo"
+        },
+        {
+          "english": "I didn't see anything -> I didn't see nothing",
+          "spanish": "No ví nada"
+        },
+        {
+          "english": "Didn't you eat anything? (formal)",
+          "spanish": "No comío nada?"
+        },
+        {
+          "english": "Nobody saw anything",
+          "spanish": "Nadie vío nada"
+        },
+        {
+          "english": "It lasted two minutes",
+          "spanish": "Duró dos minutos"
+        },
+        {
+          "english": "I lasted two minutes",
+          "spanish": "Duré dos minutos"
+        }
+      ]
+    },
+    {
+      "rule": "Usually subject pronouns are used instead of object pronouns as custom to English grammar",
+      "examples": [
+        {
+          "english": "I ate more than him (he)",
+          "spanish": "Comí màs que el"
+        },
+        {
+          "english": "He ate more than me (I)",
+          "spanish": "Comío màn que yo"
         }
       ]
     },

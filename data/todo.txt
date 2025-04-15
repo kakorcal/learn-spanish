@@ -1,7 +1,30 @@
-facil = easy (related to facilitate)
-malo = bad (related to malnutrition)
-manera = manner
-sobre = about
+cuando -> when
+acordarse -> to remember (related to according / recording. the 'se' at the end implies to use the 'myself' version of the verb)
+enviar -> to send (related to envoy)
+parecer -> to seem (related to apparent / transparent)
+por -> for / by
+tele (far) fono (voice) -> telephone (greek origins)
+llegar -> to arrive
+sonar -> to sound
+a menudo (miniscule) -> often
+separar -> to separate
+reparar -> to repair
+preparar -> to prepare
+comparar -> with pairing (to compare)
+un par -> a pair
+par -> pair
+parar -> to stop
+hora -> hour
+media -> half
+sin -> without
+durar -> to last (related to endure / duracell)
+nadie -> nobody
+minuto -> minute
+nada -> nothing
+facil -> easy (related to facilitate)
+malo -> bad (related to malnutrition)
+manera -> manner
+sobre -> about
 la mañana = the morning
 to send = enviar (related to envoy)
 todavia = still/yet (todo + via = all the wait)
@@ -67,7 +90,7 @@ llover -> to rain
 Aquí vs Acá vs Ahí vs Allí vs Allá
 
 {
-  "rule": "Use que as 'that', 'who', or 'which'",
+  "rule": "Use que as 'that', 'than', 'who', or 'which'",
   "examples": []
 },
 {

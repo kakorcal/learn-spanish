@@ -2565,6 +2565,18 @@
         {
           "english": "I would stay here -> I would remain myself here",
           "spanish": "Me quedaría aquí"
+        },
+        {
+          "english": "I stayed",
+          "spanish": "Me quedé"
+        },
+        {
+          "english": "She stayed",
+          "spanish": "Me quedó"
+        },
+        {
+          "english": "We stayed",
+          "spanish": "Nos quedamos"
         }
       ],
       "subjects": [
@@ -3289,6 +3301,14 @@
         {
           "english": "I would like to see you -> It would be pleasing to me to see you",
           "spanish": "Me gustaría ver te"
+        },
+        {
+          "english": "I liked it",
+          "spanish": "Me gustó"
+        },
+        {
+          "english": "It wasn't pleasing me",
+          "spanish": "No me gustaba"
         }
       ],
       "subjects": [
@@ -3351,6 +3371,14 @@
         {
           "english": "It seems good to me -> It seems to me, good / well",
           "spanish": "Me parese bien"
+        },
+        {
+          "english": "It seemed good to me",
+          "spanish": "Me parecío bien"
+        },
+        {
+          "english": "It was seeming good to me",
+          "spanish": "Me parecía bien"
         },
         {
           "english": "Doesn't it seem ok to you? -> Does it not seem to you, good / well?",
