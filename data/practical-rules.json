@@ -970,6 +970,94 @@
       ]
     },
     {
+      "rule": "First the 'l' pronoun will turn into 'se' if the subsequent pronoun also starts with a 'l'",
+      "examples": [
+        {
+          "english": "I gave it to him",
+          "spanish": "Le lo di -> Se lo di"
+        },
+        {
+          "english": "I gave it to you guys",
+          "spanish": "Les lo di -> Se lo di"
+        },
+        {
+          "english": "I gave them to him",
+          "spanish": "Le los di -> Se los di"
+        }
+      ]
+    },
+    {
+      "rule": "'a' can emphasize a pronoun and can act as a preposition for le/les pronouns. You can only repeat pronouns with 'a'",
+      "examples": [
+        {
+          "english": "He sold me it -> He sold me it to me",
+          "spanish": "Me lo compra -> Me lo compra a mi"
+        },
+        {
+          "english": "I sold her it -> I sold her it to her",
+          "spanish": "Se lo vendí a ella"
+        },
+        {
+          "english": "I sold her them -> I sold her them to her",
+          "spanish": "Se los vendí a ella"
+        },
+        {
+          "english": "I sold her them (feminine) -> I sold her them to her",
+          "spanish": "Se las vendí a ella"
+        },
+        {
+          "english": "I sold them them -> I sold them them to them",
+          "spanish": "Se los vendí a ellos"
+        },
+        {
+          "english": "He sent you it (informal) -> He sent you it to you",
+          "spanish": "Te lo envió"
+        },
+        {
+          "english": "He sent her it -> He sent her it to her",
+          "spanish": "Se lo envió a ella -> El se lo envió a ella"
+        },
+        {
+          "english": "He sent them it -> He sent them it to them",
+          "spanish": "Se lo envió a ellos -> El se lo envió a ellos"
+        },
+        {
+          "english": "He didn't send it to you guys yet -> He didn't send you guys it yet to you guys",
+          "spanish": "El no se lo envió a ustedes todavia"
+        },
+        {
+          "english": "I don't know if I sent him it -> I don't know if I sent him it to him",
+          "spanish": "Yo no sé si se lo envié a el"
+        }
+      ]
+    },
+    {
+      "rule": "'a' can make clarifications when used like a preposition for le/les pronouns",
+      "examples": [
+        {
+          "english": "I gave him something -> I gave him something to him",
+          "spanish": "Le dí algo -> Le dí algo a el"
+        },
+        {
+          "english": "I gave you something -> I gave you something to you (formal)",
+          "spanish": "Le dí algo -> Le dí algo a usted"
+        },
+        {
+          "english": "I gave you something -> I gave you something to you (informal)",
+          "spanish": "Te dí algo"
+        }
+      ]
+    },
+    {
+      "rule": "'a' cannot be used like a preposition if a preposition already is used",
+      "examples": [
+        {
+          "english": "He buys it for me",
+          "spanish": "Lo compra para mi"
+        }
+      ]
+    },
+    {
       "rule": "Usted comes from 'Vuestra Merced' which means 'Your mercy'",
       "examples": [
         {
@@ -2475,6 +2563,47 @@
         {
           "english": "I don't want to organize it like this",
           "spanish": "No quiero organizarlo asi"
+        }
+      ]
+    },
+    {
+      "rule": "Dar is the only 'ar' verb that conjugates past tense forms using 'ir/er'",
+      "examples": [
+        {
+          "english": "I gave",
+          "spanish": "Dí"
+        },
+        {
+          "english": "She gave",
+          "spanish": "Dío"
+        },
+        {
+          "english": "We gave",
+          "spanish": "Dimos"
+        },
+        {
+          "english": "He gave me",
+          "spanish": "Me dío"
+        },
+        {
+          "english": "He gave me it",
+          "spanish": "Me lo dío"
+        },
+        {
+          "english": "He gave us it",
+          "spanish": "Nos lo dío"
+        },
+        {
+          "english": "He didn't give it to us",
+          "spanish": "No nos lo dío"
+        },
+        {
+          "english": "He didn't give it to us",
+          "spanish": "No nos lo dío"
+        },
+        {
+          "english": "I gave it to you (informal)",
+          "spanish": "Te lo dí"
         }
       ]
     }
